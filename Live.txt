@@ -67,6 +67,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888893/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视",央视高网
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
@@ -124,16 +125,12 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视IPV6",CCTV-17
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视",凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="卫视",凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="卫视",翡翠台 
-https://iptv.hiper25.com/TVB/video.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="卫视",明珠台 
-https://iptv.hiper25.com/Pearl/video.m3u8
-#EXTINF:-1 tvg-id="澳门澳视" tvg-name="澳门澳视" tvg-logo="https://live.fanmingming.com/tv/澳门澳视.png" group-title="卫视",澳門澳視 
-https://iptv.hiper25.com/TDM/video.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视",凤凰中文
+http://113.64.145.195:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视",凤凰资讯
+http://113.64.145.195:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png" group-title="卫视",凤凰香港
+http://113.64.145.195:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$(高清)1080p
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
