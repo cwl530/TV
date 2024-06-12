@@ -449,8 +449,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="梦想改造家🔥BesTV" tvg-logo="https://live.fanmingming.com/tv/梦想改造家🔥BesTV.png",梦想改造家🔥BesTV
 http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140#
-#EXTINF:-1 tvg-name="http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140" tvg-logo="https://live.fanmingming.com/tv/http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140.png",http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140
-undefined
+http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰卫视资讯台
