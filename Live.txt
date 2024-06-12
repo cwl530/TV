@@ -447,7 +447,6 @@ http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 #EXTINF:-1 tvg-id="西安教育" tvg-name="西安教育" tvg-logo="https://live.fanmingming.com/tv/西安教育.png" group-title="地方",西安教育
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-
 #EXTINF:-1 tvg-name="梦想改造家🔥BesTV" tvg-logo="https://live.fanmingming.com/tv/梦想改造家🔥BesTV.png",梦想改造家🔥BesTV
 http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140#
 #EXTINF:-1 tvg-name="http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140" tvg-logo="https://live.fanmingming.com/tv/http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140.png",http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140
@@ -544,7 +543,7 @@ rtmp://f13h.mine.nu/sat/tv071
 http://61.216.67.119:1935/bltvhd/bltv1/chunklistw1266569526.m3u8
 #EXTINF:-1 tvg-name="東森超HD" tvg-logo="https://live.fanmingming.com/tv/東森超HD.png",東森超HD
 rtmp://f13h.mine.nu/sat/tv331
-
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="港澳频道",凤凰资讯台
