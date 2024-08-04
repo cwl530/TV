@@ -38,17 +38,6 @@
       "pass": true
     }
   ],
-  "sites": [
-    {
-      "key": "南瓜影视",
-      "name": "🎃┃南瓜┃影视┃",
-      "type": 3,
-      "api": "csp_WexNgys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }
-],
   "parses": [
     {
       "name": "超级并发",
