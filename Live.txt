@@ -526,7 +526,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 tvg-name="唯心电视台" tvg-logo="https://live.fanmingming.com/tv/唯心电视台.png"group-title="港澳频道",唯心电视台
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-name="生命电视台" tvg-logo="https://live.fanmingming.com/tv/生命电视台.png",生命电视台
+#EXTINF:-1 tvg-name="生命电视台" tvg-logo="https://live.fanmingming.com/tv/生命电视台.png"group-title="港澳频道",生命电视台
 http://61.216.67.119:1935/lifetv/lifetv.stream/chunklist_w674478578.m3u8
 #EXTINF:-1 tvg-name="澳门莲花台❤️澳门" tvg-logo="https://live.fanmingming.com/tv/澳门莲花台❤️澳门.png"group-title="港澳频道",澳门莲花台❤️澳门
 http://php.jdshipin.com:8880/amlh.php
@@ -542,7 +542,7 @@ http://live.cgtn.com/500/prog_index.m3u8
 mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 #EXTINF:-1 tvg-name="TVB星河★粤语台" tvg-logo="https://live.fanmingming.com/tv/TVB星河★粤语台.png"group-title="港澳频道",TVB星河★粤语台
 https://s2.pub/cctv-16
-#EXTINF:-1 tvg-name="TVB星河★粤语台" tvg-logo="https://live.fanmingming.com/tv/TVB星河★粤语台.png",TVB星河★粤语台
+#EXTINF:-1 tvg-name="TVB星河★粤语台" tvg-logo="https://live.fanmingming.com/tv/TVB星河★粤语台.png"group-title="港澳频道",TVB星河★粤语台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河台.png"group-title="港澳频道",TVB星河台
 http://113.64.145.61:8081/hls/135/index.m3u8
