@@ -353,6 +353,33 @@ http://iptvcyp.top:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 http://iptvcyp.top:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南娱乐.png" group-title="地方",湖南娱乐
 http://iptvcyp.top:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="芒果1" tvg-logo="https://live.fanmingming.com/tv/芒果1.png",芒果1
+http://zby.xjqxz.top/dsdsj1/live.m3u8
+#EXTINF:-1 tvg-name="芒果2" tvg-logo="https://live.fanmingming.com/tv/芒果2.png",芒果2
+http://zby.xjqxz.top/dsdsj2/live.m3u8
+#EXTINF:-1 tvg-name="芒果3" tvg-logo="https://live.fanmingming.com/tv/芒果3.png",芒果3
+http://zby.xjqxz.top/dsdsj3/live.m3u8
+#EXTINF:-1 tvg-name="芒果4" tvg-logo="https://live.fanmingming.com/tv/芒果4.png",芒果4
+http://zby.xjqxz.top/gzwxj/live.m3u8
+#EXTINF:-1 tvg-name="芒果5" tvg-logo="https://live.fanmingming.com/tv/芒果5.png",芒果5
+http://zby.xjqxz.top/gzdsj1/live.m3u8
+#EXTINF:-1 tvg-name="芒果6" tvg-logo="https://live.fanmingming.com/tv/芒果6.png",芒果6
+http://zby.xjqxz.top/gzdsj2/live.m3u8
+#EXTINF:-1 tvg-name="芒果7" tvg-logo="https://live.fanmingming.com/tv/芒果7.png",芒果7
+http://zby.xjqxz.top/gzdsj3/live.m3u8
+#EXTINF:-1 tvg-name="芒果8" tvg-logo="https://live.fanmingming.com/tv/芒果8.png",芒果8
+http://zby.xjqxz.top/gzdsj4/live.m3u8
+#EXTINF:-1 tvg-name="芒果9" tvg-logo="https://live.fanmingming.com/tv/芒果9.png",芒果9
+http://zby.xjqxz.top/gzdsj5/live.m3u8
+#EXTINF:-1 tvg-name="芒果10" tvg-logo="https://live.fanmingming.com/tv/芒果10.png",芒果10
+http://zby.xjqxz.top/kzzypd/live.m3u8
+#EXTINF:-1 tvg-name="芒果11" tvg-logo="https://live.fanmingming.com/tv/芒果11.png",芒果11
+http://zby.xjqxz.top/dzzypd/live.m3u8
+#EXTINF:-1 tvg-name="芒果12" tvg-logo="https://live.fanmingming.com/tv/芒果12.png",芒果12
+http://zby.xjqxz.top/dzzypd2/live.m3u8
+#EXTINF:-1 tvg-name="芒果13" tvg-logo="https://live.fanmingming.com/tv/芒果13.png",芒果13
+http://zby.xjqxz.top/dzzypd3/live.m3u8
+
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北综合.png" group-title="地方",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 #EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北影视.png" group-title="地方",湖北影视
