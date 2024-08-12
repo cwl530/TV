@@ -353,31 +353,31 @@ http://iptvcyp.top:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 http://iptvcyp.top:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南娱乐.png" group-title="地方",湖南娱乐
 http://iptvcyp.top:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="芒果1" tvg-logo="https://live.fanmingming.com/tv/芒果1.png",芒果1
+#EXTINF:-1 tvg-name="芒果1" tvg-name="湖南芒果1" tvg-logo="https://live.fanmingming.com/tv/芒果1.png",芒果1
 http://zby.xjqxz.top/dsdsj1/live.m3u8
-#EXTINF:-1 tvg-name="芒果2" tvg-logo="https://live.fanmingming.com/tv/芒果2.png",芒果2
+#EXTINF:-1 tvg-name="芒果2" tvg-name="湖南芒果2" tvg-logo="https://live.fanmingming.com/tv/芒果2.png",芒果2
 http://zby.xjqxz.top/dsdsj2/live.m3u8
-#EXTINF:-1 tvg-name="芒果3" tvg-logo="https://live.fanmingming.com/tv/芒果3.png",芒果3
+#EXTINF:-1 tvg-name="芒果3" tvg-name="湖南芒果3" tvg-logo="https://live.fanmingming.com/tv/芒果3.png",芒果3
 http://zby.xjqxz.top/dsdsj3/live.m3u8
-#EXTINF:-1 tvg-name="芒果4" tvg-logo="https://live.fanmingming.com/tv/芒果4.png",芒果4
+#EXTINF:-1 tvg-name="芒果4" tvg-name="湖南芒果4" tvg-logo="https://live.fanmingming.com/tv/芒果4.png",芒果4
 http://zby.xjqxz.top/gzwxj/live.m3u8
-#EXTINF:-1 tvg-name="芒果5" tvg-logo="https://live.fanmingming.com/tv/芒果5.png",芒果5
+#EXTINF:-1 tvg-name="芒果5" tvg-name="湖南芒果5" tvg-logo="https://live.fanmingming.com/tv/芒果5.png",芒果5
 http://zby.xjqxz.top/gzdsj1/live.m3u8
-#EXTINF:-1 tvg-name="芒果6" tvg-logo="https://live.fanmingming.com/tv/芒果6.png",芒果6
+#EXTINF:-1 tvg-name="芒果6" tvg-name="湖南芒果6" tvg-logo="https://live.fanmingming.com/tv/芒果6.png",芒果6
 http://zby.xjqxz.top/gzdsj2/live.m3u8
-#EXTINF:-1 tvg-name="芒果7" tvg-logo="https://live.fanmingming.com/tv/芒果7.png",芒果7
+#EXTINF:-1 tvg-name="芒果7" tvg-name="湖南芒果7" tvg-logo="https://live.fanmingming.com/tv/芒果7.png",芒果7
 http://zby.xjqxz.top/gzdsj3/live.m3u8
-#EXTINF:-1 tvg-name="芒果8" tvg-logo="https://live.fanmingming.com/tv/芒果8.png",芒果8
+#EXTINF:-1 tvg-name="芒果8" tvg-name="湖南芒果8" tvg-logo="https://live.fanmingming.com/tv/芒果8.png",芒果8
 http://zby.xjqxz.top/gzdsj4/live.m3u8
-#EXTINF:-1 tvg-name="芒果9" tvg-logo="https://live.fanmingming.com/tv/芒果9.png",芒果9
+#EXTINF:-1 tvg-name="芒果9" tvg-name="湖南芒果9" tvg-logo="https://live.fanmingming.com/tv/芒果9.png",芒果9
 http://zby.xjqxz.top/gzdsj5/live.m3u8
-#EXTINF:-1 tvg-name="芒果10" tvg-logo="https://live.fanmingming.com/tv/芒果10.png",芒果10
+#EXTINF:-1 tvg-name="芒果10" tvg-name="湖南芒果10" tvg-logo="https://live.fanmingming.com/tv/芒果10.png",芒果10
 http://zby.xjqxz.top/kzzypd/live.m3u8
-#EXTINF:-1 tvg-name="芒果11" tvg-logo="https://live.fanmingming.com/tv/芒果11.png",芒果11
+#EXTINF:-1 tvg-name="芒果11" tvg-name="湖南芒果11" tvg-logo="https://live.fanmingming.com/tv/芒果11.png",芒果11
 http://zby.xjqxz.top/dzzypd/live.m3u8
-#EXTINF:-1 tvg-name="芒果12" tvg-logo="https://live.fanmingming.com/tv/芒果12.png",芒果12
+#EXTINF:-1 tvg-name="芒果12" tvg-name="湖南芒果12" tvg-logo="https://live.fanmingming.com/tv/芒果12.png",芒果12
 http://zby.xjqxz.top/dzzypd2/live.m3u8
-#EXTINF:-1 tvg-name="芒果13" tvg-logo="https://live.fanmingming.com/tv/芒果13.png",芒果13
+#EXTINF:-1 tvg-name="芒果13" tvg-name="湖南芒果13" tvg-logo="https://live.fanmingming.com/tv/芒果13.png",芒果13
 http://zby.xjqxz.top/dzzypd3/live.m3u8
 
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北综合.png" group-title="地方",湖北综合
