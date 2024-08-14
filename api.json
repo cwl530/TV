@@ -697,9 +697,15 @@
             "epg": ""
         },
         {
-            "name": "综合1",
+            "name": "综合",
             "type": 0,
             "url": "https://s2.pub/tvbs",
+            "epg": ""
+        },
+        {
+            "name": "综合1",
+            "type": 0,
+            "url": "https://codeberg.org/rietg2024/tv/raw/branch/main/六千部.txt",
             "epg": ""
         },
         {
