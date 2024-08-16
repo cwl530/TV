@@ -709,21 +709,21 @@
             "epg": ""
         },
         {
-            "name": "成人",
-            "type": 0,
-            "url": "https://codeberg.org/rietg2024/tv/raw/branch/main/六千部.txt",
-            "epg": ""
-        },
-                        {
             "name": "直播间",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Live",
             "epg": ""
         },
-        {
-            "name": "综合4",
+                        {
+            "name": "💋直播间",
             "type": 0,
-            "url": "./lives/XXX.txt",
+            "url": "https://tv.iill.top/m3u/Adult",
+            "epg": ""
+        },
+        {
+            "name": "六千部",
+            "type": 0,
+            "url": "https://codeberg.org/rietg2024/tv/raw/branch/main/六千部.txt",
             "epg": ""
         }
     ]
