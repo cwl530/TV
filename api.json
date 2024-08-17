@@ -685,6 +685,12 @@
             "epg": ""
         },
         {
+            "name": "持续维护",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u",
+            "epg": ""
+        },
+        {
             "name": "港澳台",
             "type": 0,
             "url": "https://www.mytvsuper.us.kg/live.m3u",
