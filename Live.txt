@@ -328,7 +328,7 @@ http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001248/index.m3u8?
 http://39.134.240.3/PLTV/2/224/3221226144/index.m3u8
 http://39.134.240.3/PLTV/2/224/3221225513/index.m3u8
-#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台"  tvg-logo="https://live.fanmingming.com/tv/湖南教育台.png" group-title="地方",湖南教育
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台"  tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南教育.png" group-title="地方",湖南教育
 http://iptvcyp.top:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 
