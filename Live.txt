@@ -286,6 +286,7 @@ http://39.134.240.3/PLTV/2/224/3221225910/index.m3u8https://mirror.ghproxy.com/h
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚"  tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047425/index.m3u8?
+http://iptvcyp.top:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 http://39.134.240.3/PLTV/2/224/3221226192/index.m3u8
 http://39.134.240.3/PLTV/2/224/3221225904/index.m3u8
 #EXTINF:-1 tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/JJ斗地主.png" group-title="地方",JJ斗地主
@@ -322,7 +323,6 @@ http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
 http://39.134.240.3/PLTV/2/224/3221225884/index.m3u8
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" -title="地方",湖南娱乐
-http://iptvcyp.top:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 http://iptvcyp.top:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001248/index.m3u8?
@@ -336,11 +336,9 @@ http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 http://iptvcyp.top:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
 http://39.134.240.3/PLTV/2/224/3221226132/index.m3u8
-#EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南金鹰纪实.png" group-title="地方",湖南金鹰纪实
+#EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南金鹰卡通.png" group-title="地方",湖南金鹰纪实
 http://iptvcyp.top:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 http://39.134.240.3/PLTV/2/224/3221225916/index.m3u8
-#EXTINF:-1 tvg-id="湖南公共频道" tvg-name="湖南公共频道" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南公共频道.png" group-title="地方",湖南公共频道
-http://iptvcyp.top:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="芒果1" tvg-name="湖南芒果1" tvg-logo="https://live.fanmingming.com/tv/芒果1.png" group-title="地方",芒果1
 http://zby.xjqxz.top/dsdsj1/live.m3u8
 #EXTINF:-1 tvg-name="芒果2" tvg-name="湖南芒果2" tvg-logo="https://live.fanmingming.com/tv/芒果2.png" group-title="地方",芒果2
