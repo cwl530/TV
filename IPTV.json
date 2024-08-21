@@ -1,0 +1,64 @@
+   {
+   "lives": [
+        {
+            "name": "湖南",
+            "type": 0,
+            "url": "https://codeberg.org/cwl520/tv/raw/branch/main/Lives.txt",
+            "epg": ""
+        },
+        {
+            "name": "持续维护",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cwl530/collect-tv-txt/main/merged_output.m3u",
+            "epg": ""
+        },
+        {
+            "name": "港澳台",
+            "type": 0,
+            "url": "https://www.mytvsuper.us.kg/live.m3u",
+            "epg": ""
+        },
+        {
+            "name": "Live",
+            "type": 0,
+            "url": "https://codeberg.org/cwl520/tv/raw/branch/main/Live.txt",
+            "epg": ""
+        },
+         {
+            "name": "豪洋",
+            "type": 0,
+            "url": "https://s2.pub/tvbshttp://117.72.68.25:9230/latest.txt",
+            "epg": ""
+        },
+        {
+            "name": "易看",
+            "type": 0,
+            "url": "http://117.72.68.25:9230/latest.txt",
+            "epg": ""
+        },
+        {
+            "name": "综合ip6",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/boxTV.m3u",
+            "epg": ""
+        },
+        {
+            "name": "直播间",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Live",
+            "epg": ""
+        },
+                        {
+            "name": "💋直播间",
+            "type": 0,
+            "url": "",
+            "epg": ""
+        },
+        {
+            "name": "六千部",
+            "type": 0,
+            "url": "",
+            "epg": ""
+        }
+    ]
+}
