@@ -18,6 +18,12 @@
             "url": "https://www.mytvsuper.us.kg/live.m3u",
             "epg": ""
         },
+      {
+            "name": "香港",
+            "type": 0,
+            "url": "https://raw.kkgithub.com/cwl530/TV/main/XSJ.m3u",
+            "epg": ""
+        },
         {
             "name": "Live",
             "type": 0,
