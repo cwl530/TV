@@ -944,30 +944,9 @@ https://test.zapi.us.kg/?id=bbc-world-news
 #EXTINF:-1,tvg-id="cnbc" tvg-name="cnbc" tvg-logo="https://epg.v1.mk/logo/cnbc.png" group-title="其他",CNBC
 http://23.26.239.95:3599/xsj.php/?id=cnbc
 https://test.zapi.us.kg/?id=cnbc
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="体育",五星体育
-http://23.26.239.95:3599/xsj.php/?id=wxty
-https://test.zapi.us.kg/?id=wxty
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="体育",劲爆体育
-http://23.26.239.95:3599/xsj.php/?id=jbty
-https://test.zapi.us.kg/?id=jbty
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="体育",广东体育
-http://23.26.239.95:3599/xsj.php/?id=gdty
-https://test.zapi.us.kg/?id=gdty
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="其他",第一财经
 http://23.26.239.95:3599/xsj.php/?id=yicai
 https://test.zapi.us.kg/?id=yicai
-#EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.v1.mk/logo/辽宁体育.png" group-title="体育",辽宁体育
-http://23.26.239.95:3599/xsj.php/?id=lnty
-https://test.zapi.us.kg/?id=lnty
-#EXTINF:-1,tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.v1.mk/logo/天津体育.png" group-title="体育",天津体育
-http://23.26.239.95:3599/xsj.php/?id=tjty
-https://test.zapi.us.kg/?id=tjty
-#EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.v1.mk/logo/辽宁都市.png" group-title="体育",辽宁都市
-http://23.26.239.95:3599/xsj.php/?id=lnds
-https://test.zapi.us.kg/?id=lnds
-#EXTINF:-1,tvg-id="辽宁影视" tvg-name="辽宁影视" tvg-logo="https://epg.v1.mk/logo/辽宁影视.png" group-title="体育",辽宁影视
-http://23.26.239.95:3599/xsj.php/?id=lnys
-https://test.zapi.us.kg/?id=lnys
 #EXTINF:-1,tvg-id="曼迪日本" tvg-name="曼迪日本" tvg-logo="https://epg.v1.mk/logo/曼迪日本.png" group-title="其他",迪士尼频道
 http://23.26.239.95:3599/xsj.php/?id=disney
 https://test.zapi.us.kg/?id=disney
