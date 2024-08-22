@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 翡翠台
 http://23.26.239.95:3599/xsj.php?id=feicui
 https://test.zapi.us.kg/?id=feicui
