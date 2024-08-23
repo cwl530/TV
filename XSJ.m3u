@@ -29,7 +29,7 @@ https://test.zapi.us.kg/?id=tvb-asia-drama
 #EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="港澳台",TVB 娱乐新闻台
 http://23.26.239.95:3599/xsj.php?id=TVB ylxw
 https://test.zapi.us.kg/?id=TVB ylxw
-#EXTINF:-1,tvg-id="j2" tvg-name="j2" tvg-logo="https://epg.v1.mk/logo/j2.png" group-title="其他",J2
+#EXTINF:-1,tvg-id="j2" tvg-name="j2" tvg-logo="https://epg.v1.mk/logo/j2.png" group-title="港澳台",J2
 http://23.26.239.95:3599/xsj.php?id=j2
 https://test.zapi.us.kg/?id=j2
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 明珠台
@@ -101,10 +101,10 @@ https://test.zapi.us.kg/?id=tdm
 #EXTINF:-1,tvg-id="HKC18" tvg-name="HKC18" tvg-logo="https://epg.v1.mk/logo/HKC18.png" group-title="其他",HKC 18台
 http://23.26.239.95:3599/xsj.php/?id=hkc18
 https://test.zapi.us.kg/?id=hkc18
-#EXTINF:-1,tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://epg.v1.mk/logo/港台电视31.png" group-title="其他",港台电视 31
+#EXTINF:-1,tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://epg.v1.mk/logo/港台电视31.png" group-title="港澳台",港台电视 31
 http://23.26.239.95:3599/xsj.php/?id=rthk31
 https://test.zapi.us.kg/?id=rthk31
-#EXTINF:-1,tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://epg.v1.mk/logo/港台电视32.png" group-title="其他",港台电视 32
+#EXTINF:-1,tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://epg.v1.mk/logo/港台电视32.png" group-title="港澳台",港台电视 32
 http://23.26.239.95:3599/xsj.php/?id=rthk32
 https://test.zapi.us.kg/?id=rthk32
 #EXTINF:-1,tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="其他",Now 财经台
@@ -284,13 +284,13 @@ https://test.zapi.us.kg/?id=jtgj
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA综合台
 http://23.26.239.95:3599/xsj.php/?id=elta-zonghe
 https://test.zapi.us.kg/?id=elta-zonghe
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="其他",公视
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="台湾",公视
 http://23.26.239.95:3599/xsj.php/?id=pts
 https://test.zapi.us.kg/?id=pts
-#EXTINF:-1,tvg-id="公视3台" tvg-name="公视3台" tvg-logo="https://epg.v1.mk/logo/公视3台.png" group-title="其他",公视3台
+#EXTINF:-1,tvg-id="公视3台" tvg-name="公视3台" tvg-logo="https://epg.v1.mk/logo/公视3台.png" group-title="台湾",公视3台
 http://23.26.239.95:3599/xsj.php/?id=pts-3
 https://test.zapi.us.kg/?id=pts-3
-#EXTINF:-1,tvg-id="公视台语台" tvg-name="公视台语台" tvg-logo="https://epg.v1.mk/logo/公视台语台.png" group-title="其他",公视台语台
+#EXTINF:-1,tvg-id="公视台语台" tvg-name="公视台语台" tvg-logo="https://epg.v1.mk/logo/公视台语台.png" group-title="台湾",公视台语台
 http://23.26.239.95:3599/xsj.php/?id=pts-ty
 https://test.zapi.us.kg/?id=pts-ty
 #EXTINF:-1,tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://epg.v1.mk/logo/靖天综合台.png" group-title="其他",靖天综合台
@@ -299,7 +299,7 @@ https://test.zapi.us.kg/?id=jtzh
 #EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.v1.mk/logo/靖天日本台.png" group-title="其他",靖天日本台
 http://23.26.239.95:3599/xsj.php/?id=jtrb
 https://test.zapi.us.kg/?id=jtrb
-#EXTINF:-1,tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://epg.v1.mk/logo/客家电视台.png" group-title="其他",客家电视台
+#EXTINF:-1,tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://epg.v1.mk/logo/客家电视台.png" group-title="台湾",客家电视台
 http://23.26.239.95:3599/xsj.php/?id=hakkatv
 https://test.zapi.us.kg/?id=hakkatv
 #EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.v1.mk/logo/大爱一台.png" group-title="港澳台",大爱一台
@@ -308,10 +308,10 @@ https://test.zapi.us.kg/?id=daai1
 #EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.v1.mk/logo/大爱二台.png" group-title="港澳台",大爱二台
 http://23.26.239.95:3599/xsj.php/?id=daai2
 https://test.zapi.us.kg/?id=daai2
-#EXTINF:-1,tvg-id="ARIRANG阿里郎" tvg-name="ARIRANG阿里郎" tvg-logo="https://epg.v1.mk/logo/ARIRANG阿里郎.png" group-title="其他",ARIRANG 阿里郎频道
+#EXTINF:-1,tvg-id="ARIRANG阿里郎" tvg-name="ARIRANG阿里郎" tvg-logo="https://epg.v1.mk/logo/ARIRANG阿里郎.png" group-title="台湾",ARIRANG 阿里郎频道
 http://23.26.239.95:3599/xsj.php/?id=arirang
 https://test.zapi.us.kg/?id=arirang
-#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="其他",中天新闻
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="台湾",中天新闻
 http://23.26.239.95:3599/xsj.php/?id=cti-news
 https://test.zapi.us.kg/?id=cti-news
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS 新闻台
