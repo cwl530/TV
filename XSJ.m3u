@@ -1246,266 +1246,180 @@ https://test.zapi.us.kg/?id=sbs-fune
 
 https://test.zapi.us.kg/?id=sbs-m
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="韩国」BBS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",BBS
+##EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="BBS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 tvg-name="韩国」EBS1" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS1
+#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS1
 http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」EBS2" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS2.png",「韩国」EBS2
+#EXTINF:-1 tvg-name="「韩国」EBS2" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS2
 http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」EBSe" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBSe.png",「韩国」EBSe
+#EXTINF:-1 tvg-name="「韩国」EBSe" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBSe
 http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS1.png",「韩国」EBS1
+#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS1
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」EBS2" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS2.png",「韩国」EBS2
+#EXTINF:-1 tvg-name="「韩国」EBS2" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS2
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS1.png",「韩国」EBS1
+#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS1.png",「韩国」EBS1
+#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 tvg-name="「韩国」EBSi" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBSi.png",「韩国」EBSi
+#EXTINF:-1 tvg-name="「韩国」EBSi" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBSi
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="「韩国」EBS+2" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS+2.png",「韩国」EBS+2
+#EXTINF:-1 tvg-name="「韩国」EBS+2" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS+2
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="「韩国」EBSe" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBSe.png",「韩国」EBSe
+#EXTINF:-1 tvg-name="「韩国」EBSe" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBSe
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="「韩国」KBC | SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBC | SBS.png",「韩国」KBC | SBS
+#EXTINF:-1 tvg-name="「韩国」KBC | SBS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBC | SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」JTBC" tvg-logo="https://live.fanmingming.com/tv/「韩国」JTBC.png",「韩国」JTBC
+#EXTINF:-1 tvg-name="「韩国」JTBC" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",JTBC
 https://everylive.space/live/jtbc/livestream.m3u8
-#EXTINF:-1 tvg-name="「韩国」KCTV" tvg-logo="https://live.fanmingming.com/tv/「韩国」KCTV.png",「韩国」KCTV
+#EXTINF:-1 tvg-name="「韩国」KCTV" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 tvg-name="「韩国」CJB | SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」CJB | SBS.png",「韩国」CJB | SBS
+#EXTINF:-1 tvg-name="「韩国」CJB | SBS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",CJB | SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」KBS11" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS11.png",「韩国」KBS11
+#EXTINF:-1 tvg-name="「韩国」KBS11" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS11
 http://142.4.119.231:9080/hls/123456mr.m3u8
-#EXTINF:-1 tvg-name="「韩国」MBC" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBC.png",「韩国」MBC
+#EXTINF:-1 tvg-name="「韩国」MBC" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",MBC
 http://142.4.119.231:9080/hls/254666359mr.m3u8
-#EXTINF:-1 tvg-name="「韩国」MBC UHD" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBC UHD.png",「韩国」MBC UHD
+#EXTINF:-1 tvg-name="「韩国」MBC UHD" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",MBC UHD
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」MBC体育" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBC体育.png",「韩国」MBC体育
+#EXTINF:-1 tvg-name="「韩国」MBC体育" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",MBC体育
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
-#EXTINF:-1 tvg-name="「韩国」SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」SBS.png",「韩国」SBS
+#EXTINF:-1 tvg-name="「韩国」SBS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",SBS
 http://142.4.119.231:9080/hls/36545983mr.m3u8
-#EXTINF:-1 tvg-name="「韩国」KBS11" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS11.png",「韩国」KBS11
+#EXTINF:-1 tvg-name="「韩国」KBS11" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS11
 http://142.4.119.231:9080/hls/wkbs1.m3u8
-#EXTINF:-1 tvg-name="「韩国」NBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」NBS.png",「韩国」NBS
+#EXTINF:-1 tvg-name="「韩国」NBS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」TjB | SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」TjB | SBS.png",「韩国」TjB | SBS
+#EXTINF:-1 tvg-name="「韩国」TjB | SBS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",TjB | SBS
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-name="「韩国」KBS LIVE" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS LIVE.png",「韩国」KBS LIVE
+#EXTINF:-1 tvg-name="「韩国」KBS LIVE" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS LIVE
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」KBS NEWS" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS NEWS.png",「韩国」KBS NEWS
+#EXTINF:-1 tvg-name="「韩国」KBS NEWS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS NEWS
 http://biaozhun114.com/tv/korea.php?id=31
-#EXTINF:-1 tvg-name="「韩国」KBS DRAMA" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS DRAMA.png",「韩国」KBS DRAMA
+#EXTINF:-1 tvg-name="「韩国」KBS DRAMA" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS DRAMA
 http://biaozhun114.com/tv/korea.php?id=32
-#EXTINF:-1 tvg-name="「韩国」KBS JOY" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS JOY.png",「韩国」KBS JOY
+#EXTINF:-1 tvg-name="「韩国」KBS JOY" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS JOY
 http://biaozhun114.com/tv/korea.php?id=33
-#EXTINF:-1 tvg-name="「韩国」KBS STORY" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS STORY.png",「韩国」KBS STORY
+#EXTINF:-1 tvg-name="「韩国」KBS STORY" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS STORY
 http://biaozhun114.com/tv/korea.php?id=34
-#EXTINF:-1 tvg-name="「韩国」KBS LIVE" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS LIVE.png",「韩国」KBS LIVE
+#EXTINF:-1 tvg-name="「韩国」KBS LIVE" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS LIVE
 http://biaozhun114.com/tv/korea.php?id=35
-#EXTINF:-1 tvg-name="「韩国」KBS KIDS" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS KIDS.png",「韩国」KBS KIDS
+#EXTINF:-1 tvg-name="「韩国」KBS KIDS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS KIDS
 http://biaozhun114.com/tv/korea.php?id=36
-#EXTINF:-1 tvg-name="「韩国」KBS WORLD" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS WORLD.png",「韩国」KBS WORLD
+#EXTINF:-1 tvg-name="「韩国」KBS WORLD" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS WORLD
 http://biaozhun114.com/tv/korea.php?id=37
-#EXTINF:-1 tvg-name="「韩国」CTS" tvg-logo="https://live.fanmingming.com/tv/「韩国」CTS.png",「韩国」CTS
+#EXTINF:-1 tvg-name="「韩国」CTS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",CTS
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-#EXTINF:-1 tvg-name="「韩国」Arirang" tvg-logo="https://live.fanmingming.com/tv/「韩国」Arirang.png",「韩国」Arirang
+#EXTINF:-1 tvg-name="「韩国」Arirang" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」Job plus TV" tvg-logo="https://live.fanmingming.com/tv/「韩国」Job plus TV.png",「韩国」Job plus TV
+#EXTINF:-1 tvg-name="「韩国」Job plus TV" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",Job plus TV
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」DUBAI ONE" tvg-logo="https://live.fanmingming.com/tv/「韩国」DUBAI ONE.png",「韩国」DUBAI ONE
+#EXTINF:-1 tvg-name="「韩国」DUBAI ONE" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="「韩国」tvN1" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN1.png",「韩国」tvN1
+#EXTINF:-1 tvg-name="「韩国」tvN1" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvN1
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
-#EXTINF:-1 tvg-name="「韩国」tvN2" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN2.png",「韩国」tvN2
+#EXTINF:-1 tvg-name="「韩国」tvN2" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvN2
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-#EXTINF:-1 tvg-name="「韩国」tvN3" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN3.png",「韩国」tvN3
+#EXTINF:-1 tvg-name="「韩国」tvN3" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvN3
 https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
-#EXTINF:-1 tvg-name="「韩国」tvN4" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN4.png",「韩国」tvN4
+#EXTINF:-1 tvg-name="「韩国」tvN4" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvN4
 http://210.210.155.35/dr9445/h/h20/index.m3u8#http://210.210.155.35:80/dr9445/h/h20/02.m3u8
-#EXTINF:-1 tvg-name="「韩国」tvN5" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN5.png",「韩国」tvN5
+#EXTINF:-1 tvg-name="「韩国」tvN5" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvN5
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?「韩国」tvN Movies
-#EXTINF:-1 tvg-name="「韩国」tvN Global" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN Global.png",「韩国」tvN Global
+#EXTINF:-1 tvg-name="「韩国」tvN Global" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvN Global
 http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:-1 tvg-name="「韩国」tvN asia" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN asia.png",「韩国」tvN asia
+#EXTINF:-1 tvg-name="「韩国」tvN asia" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvN asia
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-name="「韩国」tvNBN" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvNBN.png",「韩国」tvNBN
+#EXTINF:-1 tvg-name="「韩国」tvNBN" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvNBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-name="「韩国」KBS JOY" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS JOY.png",「韩国」KBS JOY
 http://112.157.229.162:9981/stream/channelid/693039828?profile=pass
-#EXTINF:-1 tvg-name="「韩国」tvN1线" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN1线.png",「韩国」tvN1线
+#EXTINF:-1 tvg-name="「韩国」tvN1线" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvN1线
 https://everylive.space/live/tvn/livestream.m3u8
-#EXTINF:-1 tvg-name="「韩国」tvN2线" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN2线.png",「韩国」tvN2线
+#EXTINF:-1 tvg-name="「韩国」tvN2线" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",tvN2线
 http://112.157.229.162:9981/stream/channelid/1326932339?profile=pass
-#EXTINF:-1 tvg-name="「韩国」SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」SBS.png",「韩国」SBS
+#EXTINF:-1 tvg-name="「韩国」SBS" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",SBS
 http://112.157.229.162:9981/stream/channelid/1600798351?profile=pass
-#EXTINF:-1 tvg-name="「韩国」KBS2" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS2.png",「韩国」KBS2
+#EXTINF:-1 tvg-name="「韩国」KBS2" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS2
 http://112.157.229.162:9981/stream/channelid/1840309320?profile=pass
-#EXTINF:-1 tvg-name="「韩国」KBS1" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS1.png",「韩国」KBS1
+#EXTINF:-1 tvg-name="「韩国」KBS1" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KBS1
 http://112.157.229.162:9981/stream/channelid/1286861762?profile=pass
-#EXTINF:-1 tvg-name="「韩国」MBC" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBC.png",「韩国」MBC
+#EXTINF:-1 tvg-name="「韩国」MBC" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",MBC
 http://112.157.229.162:9981/stream/channelid/865795619?profile=pass
-#EXTINF:-1 tvg-name="「韩国」JTBC" tvg-logo="https://live.fanmingming.com/tv/「韩国」JTBC.png",「韩国」JTBC
+#EXTINF:-1 tvg-name="「韩国」JTBC" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",JTBC
 http://112.157.229.162:9981/stream/channelid/1423279254?profile=pass
-#EXTINF:-1 tvg-name="「韩国」ENA플레이" tvg-logo="https://live.fanmingming.com/tv/「韩国」ENA플레이.png",「韩国」ENA플레이
+#EXTINF:-1 tvg-name="「韩国」ENA플레이" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",ENA플레이
 http://112.157.229.162:9981/stream/channelid/1715420222?profile=pass
-#EXTINF:-1 tvg-name="「韩国」JTBCG&S" tvg-logo="https://live.fanmingming.com/tv/「韩国」JTBCG&S.png",「韩国」JTBCG&S
+#EXTINF:-1 tvg-name="「韩国」JTBCG&S" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",JTBCG&S
 http://112.157.229.162:9981/stream/channelid/1638753231?profile=pass
-#EXTINF:-1 tvg-name="「韩国」맥스포츠" tvg-logo="https://live.fanmingming.com/tv/「韩国」맥스포츠.png",「韩国」맥스포츠
+#EXTINF:-1 tvg-name="「韩国」맥스포츠" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",맥스포츠
 http://112.157.229.162:9981/stream/channelid/739570267?profile=pass
-#EXTINF:-1 tvg-name="「韩国」실버아이TV" tvg-logo="https://live.fanmingming.com/tv/「韩国」실버아이TV.png",「韩国」실버아이TV
+#EXTINF:-1 tvg-name="「韩国」실버아이TV" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",실버아이TV
 http://112.157.229.162:9981/stream/channelid/200005016?profile=pass
-#EXTINF:-1 tvg-name="「韩国」채널A" tvg-logo="https://live.fanmingming.com/tv/「韩国」채널A.png",「韩国」채널A
+#EXTINF:-1 tvg-name="「韩国」채널A" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",채널A
 http://112.157.229.162:9981/stream/channelid/943646943?profile=pass
-#EXTINF:-1 tvg-name="「韩国」MBN" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBN.png",「韩国」MBN
+#EXTINF:-1 tvg-name="「韩国」MBN" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",MBN
 http://112.157.229.162:9981/stream/channelid/1903956646?profile=pass
-#EXTINF:-1 tvg-name="「韩国」Dramax" tvg-logo="https://live.fanmingming.com/tv/「韩国」Dramax.png",「韩国」Dramax
+#EXTINF:-1 tvg-name="「韩国」Dramax" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",Dramax
 http://112.157.229.162:9981/stream/channelid/204530369?profile=pass
-#EXTINF:-1 tvg-name="「韩国」TV조선" tvg-logo="https://live.fanmingming.com/tv/「韩国」TV조선.png",「韩国」TV조선
+#EXTINF:-1 tvg-name="「韩国」TV조선" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",TV조선
 http://112.157.229.162:9981/stream/channelid/1068456989?profile=pass
-#EXTINF:-1 tvg-name="「韩国」티브이조선2" tvg-logo="https://live.fanmingming.com/tv/「韩国」티브이조선2.png",「韩国」티브이조선2
+#EXTINF:-1 tvg-name="「韩国」티브이조선2" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",티브이조선2
 http://112.157.229.162:9981/stream/channelid/165481420?profile=pass
-#EXTINF:-1 tvg-name="「韩国」채널A플러스" tvg-logo="https://live.fanmingming.com/tv/「韩国」채널A플러스.png",「韩国」채널A플러스
+#EXTINF:-1 tvg-name="「韩国」채널A플러스" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",채널A플러스
 http://112.157.229.162:9981/stream/channelid/338825350?profile=pass
-#EXTINF:-1 tvg-name="「韩国」MBN플러스" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBN플러스.png",「韩国」MBN플러스
+#EXTINF:-1 tvg-name="「韩国」MBN플러스" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",MBN플러스
 http://112.157.229.162:9981/stream/channelid/225363886?profile=pass
-#EXTINF:-1 tvg-name="「韩国」GMTV" tvg-logo="https://live.fanmingming.com/tv/「韩国」GMTV.png",「韩国」GMTV
+#EXTINF:-1 tvg-name="「韩国」GMTV" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",GMTV
 http://112.157.229.162:9981/stream/channelid/1729285724?profile=pass
-#EXTINF:-1 tvg-name="「韩国」KTV" tvg-logo="https://live.fanmingming.com/tv/「韩国」KTV.png",「韩国」KTV
+#EXTINF:-1 tvg-name="「韩国」KTV" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",KTV
 http://112.157.229.162:9981/stream/channelid/630198188?profile=pass
-#EXTINF:-1 tvg-name="「韩国」국회방송" tvg-logo="https://live.fanmingming.com/tv/「韩国」국회방송.png",「韩国」국회방송
+#EXTINF:-1 tvg-name="「韩国」국회방송" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",국회방송
 http://112.157.229.162:9981/stream/channelid/1951012577?profile=pass
-#EXTINF:-1 tvg-name="「韩国」OUN" tvg-logo="https://live.fanmingming.com/tv/「韩国」OUN.png",「韩国」OUN
+#EXTINF:-1 tvg-name="「韩国」OUN" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",OUN
 http://112.157.229.162:9981/stream/channelid/1856430432?profile=pass
-#EXTINF:-1 tvg-name="「韩国」지역채널" tvg-logo="https://live.fanmingming.com/tv/「韩国」지역채널.png",「韩国」지역채널
+#EXTINF:-1 tvg-name="「韩国」지역채널" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",지역채널
 http://112.157.229.162:9981/stream/channelid/2112048965?profile=pass
-#EXTINF:-1 tvg-name="「韩国」EBS플러스1" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS플러스1.png",「韩国」EBS플러스1
+#EXTINF:-1 tvg-name="「韩国」EBS플러스1" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS플러스1
 http://112.157.229.162:9981/stream/channelid/1585817402?profile=pass
-#EXTINF:-1 tvg-name="「韩国」EBS Digital" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS Digital.png",「韩国」EBS Digital
+#EXTINF:-1 tvg-name="「韩国」EBS Digital" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS Digital
 http://112.157.229.162:9981/stream/channelid/816256588?profile=pass
-#EXTINF:-1 tvg-name="「韩国」EBS Digital" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS Digital.png",「韩国」EBS Digital
+#EXTINF:-1 tvg-name="「韩国」EBS Digital" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",EBS Digital
 http://112.157.229.162:9981/stream/channelid/664316059?profile=pass
-#EXTINF:-1 tvg-name="「韩国」GS SHOP" tvg-logo="https://live.fanmingming.com/tv/「韩国」GS SHOP.png",「韩国」GS SHOP
+#EXTINF:-1 tvg-name="「韩国」GS SHOP" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",GS SHOP
 http://112.157.229.162:9981/stream/channelid/2125410431?profile=pass
-#EXTINF:-1 tvg-name="「韩国」공영쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」공영쇼핑.png",「韩国」공영쇼핑
+#EXTINF:-1 tvg-name="「韩国」공영쇼핑" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",공영쇼핑
 http://112.157.229.162:9981/stream/channelid/582438989?profile=pass
-#EXTINF:-1 tvg-name="「韩国」현대홈플러스샵" tvg-logo="https://live.fanmingming.com/tv/「韩国」현대홈플러스샵.png",「韩国」현대홈플러스샵
+#EXTINF:-1 tvg-name="「韩国」현대홈플러스샵" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",현대홈플러스샵
 http://112.157.229.162:9981/stream/channelid/1444911683?profile=pass
-#EXTINF:-1 tvg-name="「韩国」홈&쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」홈&쇼핑.png",「韩国」홈&쇼핑
+#EXTINF:-1 tvg-name="「韩国」홈&쇼핑" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",홈&쇼핑
 http://112.157.229.162:9981/stream/channelid/192524644?profile=pass
-#EXTINF:-1 tvg-name="「韩国」NS홈쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」NS홈쇼핑.png",「韩国」NS홈쇼핑
+#EXTINF:-1 tvg-name="「韩国」NS홈쇼핑" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",NS홈쇼핑
 http://112.157.229.162:9981/stream/channelid/825723775?profile=pass
-#EXTINF:-1 tvg-name="「韩国」CJ온스타일" tvg-logo="https://live.fanmingming.com/tv/「韩国」CJ온스타일.png",「韩国」CJ온스타일
+#EXTINF:-1 tvg-name="「韩国」CJ온스타일" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",CJ온스타일
 http://112.157.229.162:9981/stream/channelid/1494437493?profile=pass
-#EXTINF:-1 tvg-name="「韩国」현대홈쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」현대홈쇼핑.png",「韩国」현대홈쇼핑
+#EXTINF:-1 tvg-name="「韩国」현대홈쇼핑" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",현대홈쇼핑
 http://112.157.229.162:9981/stream/channelid/1960878000?profile=pass
-#EXTINF:-1 tvg-name="「韩国」롯데홈쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」롯데홈쇼핑.png",「韩国」롯데홈쇼핑
+#EXTINF:-1 tvg-name="「韩国」롯데홈쇼핑" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",롯데홈쇼핑
 http://112.157.229.162:9981/stream/channelid/706210415?profile=pass
-#EXTINF:-1 tvg-name="「韩国」신세계쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」신세계쇼핑.png",「韩国」신세계쇼핑
+#EXTINF:-1 tvg-name="「韩国」신세계쇼핑" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",신세계쇼핑
 http://112.157.229.162:9981/stream/channelid/1492569308?profile=pass
-#EXTINF:-1 tvg-name="「韩国」GS MY S" tvg-logo="https://live.fanmingming.com/tv/「韩国」GS MY S.png",「韩国」GS MY S
+#EXTINF:-1 tvg-name="「韩国」GS MY S" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",GS MY S
 http://112.157.229.162:9981/stream/channelid/627095594?profile=pass
-#EXTINF:-1 tvg-name="「韩国」W쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」W쇼핑.png",「韩国」W쇼핑
+#EXTINF:-1 tvg-name="「韩国」W쇼핑" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",W쇼핑
 http://112.157.229.162:9981/stream/channelid/2060162956?profile=pass
-#EXTINF:-1 tvg-name="「韩国」롯데OneTV" tvg-logo="https://live.fanmingming.com/tv/「韩国」롯데OneTV.png",「韩国」롯데OneTV
+#EXTINF:-1 tvg-name="「韩国」롯데OneTV" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",롯데OneTV
 http://112.157.229.162:9981/stream/channelid/1501795880?profile=pass
-#EXTINF:-1 tvg-name="「韩国」kt알파쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」kt알파쇼핑.png",「韩国」kt알파쇼핑
+#EXTINF:-1 tvg-name="「韩国」kt알파쇼핑" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",kt알파쇼핑
 http://112.157.229.162:9981/stream/channelid/1776727867?profile=pass
-#EXTINF:-1 tvg-name="「韩国」NS샵플러스" tvg-logo="https://live.fanmingming.com/tv/「韩国」NS샵플러스.png",「韩国」NS샵플러스
+#EXTINF:-1 tvg-name="「韩国」NS샵플러스" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",NS샵플러스
 http://112.157.229.162:9981/stream/channelid/1467694691?profile=pass
-#EXTINF:-1 tvg-name="「韩国」CJ온스타일+" tvg-logo="https://live.fanmingming.com/tv/「韩国」CJ온스타일+.png",「韩国」CJ온스타일+
+#EXTINF:-1 tvg-name="「韩国」CJ온스타일+" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="韩国",CJ온스타일+
 http://112.157.229.162:9981/stream/channelid/519227742?profile=pass
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="cs01 スカイ・A sports＋" tvg-logo="https://live.fanmingming.com/tv/cs01 スカイ・A sports＋.png",cs01 スカイ・A sports＋
+#EXTINF:-1 tvg-name="cs01 スカイ・A sports＋" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="日本",cs01 スカイ・A sports＋
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs02 日テレジータス" tvg-logo="https://live.fanmingming.com/tv/cs02 日テレジータス.png",cs02 日テレジータス
+#EXTINF:-1 tvg-name="cs02 日テレジータス" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="日本",cs02 日テレジータス
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs03 ゴルフネットワーク" tvg-logo="https://live.fanmingming.com/tv/cs03 ゴルフネットワーク.png",cs03 ゴルフネットワーク
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs04 時代劇専門チャンネル" tvg-logo="https://live.fanmingming.com/tv/cs04 時代劇専門チャンネル.png",cs04 時代劇専門チャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs05 ホームドラマチャンネル 韓流・時代劇" tvg-logo="https://live.fanmingming.com/tv/cs05 ホームドラマチャンネル 韓流・時代劇.png",cs05 ホームドラマチャンネル 韓流・時代劇
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs06 ミュージック・ジャパンTV" tvg-logo="https://live.fanmingming.com/tv/cs06 ミュージック・ジャパンTV.png",cs06 ミュージック・ジャパンTV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs07 キッズステーション テレビアニメ" tvg-logo="https://live.fanmingming.com/tv/cs07 キッズステーション テレビアニメ.png",cs07 キッズステーション テレビアニメ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs08 ディスカバリーチャンネル" tvg-logo="https://live.fanmingming.com/tv/cs08 ディスカバリーチャンネル.png",cs08 ディスカバリーチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs09 ヒストリーチャンネル日本・世界の歴史" tvg-logo="https://live.fanmingming.com/tv/cs09 ヒストリーチャンネル日本・世界の歴史.png",cs09 ヒストリーチャンネル日本・世界の歴史
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs10 ナショナル ジオグラフィック" tvg-logo="https://live.fanmingming.com/tv/cs10 ナショナル ジオグラフィック.png",cs10 ナショナル ジオグラフィック
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs11 TBSニュース バード" tvg-logo="https://live.fanmingming.com/tv/cs11 TBSニュース バード.png",cs11 TBSニュース バード
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs12 旅チャンネル トップページ｜旅チャンネル" tvg-logo="https://live.fanmingming.com/tv/cs12 旅チャンネル トップページ｜旅チャンネル.png",cs12 旅チャンネル トップページ｜旅チャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs13 歌謡ポップスチャンネル" tvg-logo="https://live.fanmingming.com/tv/cs13 歌謡ポップスチャンネル.png",cs13 歌謡ポップスチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs14 ムービープラス" tvg-logo="https://live.fanmingming.com/tv/cs14 ムービープラス.png",cs14 ムービープラス
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs15 BBCワールドニュース" tvg-logo="https://live.fanmingming.com/tv/cs15 BBCワールドニュース.png",cs15 BBCワールドニュース
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs16 CNNj" tvg-logo="https://live.fanmingming.com/tv/cs16 CNNj.png",cs16 CNNj
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs17 GAORA SPORTS" tvg-logo="https://live.fanmingming.com/tv/cs17 GAORA SPORTS.png",cs17 GAORA SPORTS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs18 MTV" tvg-logo="https://live.fanmingming.com/tv/cs18 MTV.png",cs18 MTV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs19 女性チャンネル♪LaLa TV" tvg-logo="https://live.fanmingming.com/tv/cs19 女性チャンネル♪LaLa TV.png",cs19 女性チャンネル♪LaLa TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs20 ファミリー劇場" tvg-logo="https://live.fanmingming.com/tv/cs20 ファミリー劇場.png",cs20 ファミリー劇場
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs21 MONDO TV" tvg-logo="https://live.fanmingming.com/tv/cs21 MONDO TV.png",cs21 MONDO TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs22 衛星劇場" tvg-logo="https://live.fanmingming.com/tv/cs22 衛星劇場.png",cs22 衛星劇場
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs23 ディズニージュニア" tvg-logo="https://live.fanmingming.com/tv/cs23 ディズニージュニア.png",cs23 ディズニージュニア
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs24 アニマルプラネット" tvg-logo="https://live.fanmingming.com/tv/cs24 アニマルプラネット.png",cs24 アニマルプラネット
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs25 カートゥーン ネットワーク" tvg-logo="https://live.fanmingming.com/tv/cs25 カートゥーン ネットワーク.png",cs25 カートゥーン ネットワーク
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs26 フジテレビNEXT" tvg-logo="https://live.fanmingming.com/tv/cs26 フジテレビNEXT.png",cs26 フジテレビNEXT
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs27 東映チャンネル" tvg-logo="https://live.fanmingming.com/tv/cs27 東映チャンネル.png",cs27 東映チャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs28 TAKARAZUKA SKY STAGE" tvg-logo="https://live.fanmingming.com/tv/cs28 TAKARAZUKA SKY STAGE.png",cs28 TAKARAZUKA SKY STAGE
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="cs29 チャンネル銀河 歴史ドラマ・サスペンス" tvg-logo="https://live.fanmingming.com/tv/cs29 チャンネル銀河 歴史ドラマ・サスペンス.png",cs29 チャンネル銀河 歴史ドラマ・サスペンス
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gd01 NHK G" tvg-logo="https://live.fanmingming.com/tv/gd01 NHK G.png",gd01 NHK G
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gd02 NHK E" tvg-logo="https://live.fanmingming.com/tv/gd02 NHK E.png",gd02 NHK E
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gd03 nippon tv" tvg-logo="https://live.fanmingming.com/tv/gd03 nippon tv.png",gd03 nippon tv
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gd04" tvg-logo="https://live.fanmingming.com/tv/gd04.png",gd04
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gd05" tvg-logo="https://live.fanmingming.com/tv/gd05.png",gd05
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gd06 tv asahi" tvg-logo="https://live.fanmingming.com/tv/gd06 tv asahi.png",gd06 tv asahi
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gd07" tvg-logo="https://live.fanmingming.com/tv/gd07.png",gd07
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gd08 TOKYO MX1" tvg-logo="https://live.fanmingming.com/tv/gd08 TOKYO MX1.png",gd08 TOKYO MX1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gx01" tvg-logo="https://live.fanmingming.com/tv/gx01.png",gx01
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gx02 朝日放送テレビ 6チャンネル" tvg-logo="https://live.fanmingming.com/tv/gx02 朝日放送テレビ 6チャンネル.png",gx02 朝日放送テレビ 6チャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gx03" tvg-logo="https://live.fanmingming.com/tv/gx03.png",gx03
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gx04 ytv 読売テレビ" tvg-logo="https://live.fanmingming.com/tv/gx04 ytv 読売テレビ.png",gx04 ytv 読売テレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gx05" tvg-logo="https://live.fanmingming.com/tv/gx05.png",gx05
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gx06 NHK G" tvg-logo="https://live.fanmingming.com/tv/gx06 NHK G.png",gx06 NHK G
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="gx07 SUN TV サンテレビ" tvg-logo="https://live.fanmingming.com/tv/gx07 SUN TV サンテレビ.png",gx07 SUN TV サンテレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="bs01 NHK BSP" tvg-logo="https://live.fanmingming.com/tv/bs01 NHK BSP.png",bs01 NHK BSP
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3
