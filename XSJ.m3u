@@ -1827,7 +1827,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:2
 https://list.iptvcat.com/my_list/s/701eca05f81082b789be1cbc0306632f.m3u8
 #EXTINF:-1 tvg-name="NHKBS1" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="日本",NHKBS1
 #https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="NHKBSP" tvg-logo="https://live.fanmingming.com/tv/NHKBSP.png",NHKBSP
+#EXTINF:-1 tvg-name="NHKBSP" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="日本",NHKBSP
 #https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="BS日テレ (720p Willfon)" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="日本",BS日テレ (720p Willfon)
 #https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1961,7 +1961,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-name="J Sports 4" tvg-logo="hhttps://epg.v1.mk/logo/sbsmtv.png" group-title="日本",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="日本映画専門チャンネル" tvg-logo="https://live.fanmingming.com/tv/日本映画専門チャンネル.png",日本映画専門チャンネル
+#EXTINF:-1 tvg-name="日本映画専門チャンネル" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="日本",日本映画専門チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-name="日本映画専門チャンネル" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="日本",日本映画専門チャンネル
 #SpecialTest
