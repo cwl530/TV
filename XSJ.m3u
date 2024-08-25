@@ -1,1126 +1,1390 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 翡翠台
-http://23.26.239.95:3599/xsj.php?id=feicui
+
 https://test.zapi.us.kg/?id=feicui
 #EXTINF:-1,tvg-id="TVB无线新闻台png" tvg-name="TVB无线新闻台png" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻台png.png" group-title="港澳台",TVB 无线新闻台
-http://23.26.239.95:3599/xsj.php?id=tvb-news
+
 https://test.zapi.us.kg/?id=tvb-news
 #EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳台",TVB PLUS
-http://23.26.239.95:3599/xsj.php?id=tvb-plus
+
 https://test.zapi.us.kg/?id=tvb-plus
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 黄金翡翠台
-http://23.26.239.95:3599/xsj.php?id=golden-jade
+
 https://test.zapi.us.kg/?id=golden-jade
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 黄金华剧台
-http://23.26.239.95:3599/xsj.php?id=golden-chinese-drama
+
 https://test.zapi.us.kg/?id=golden-chinese-drama
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 千禧经典台
-http://23.26.239.95:3599/xsj.php?id=tvb-classic
+
 https://test.zapi.us.kg/?id=tvb-classic
 #EXTINF:-1,tvg-id="TVB粤语片" tvg-name="TVB粤语片" tvg-logo="https://epg.v1.mk/logo/TVB粤语片.png" group-title="港澳台",TVB 粤语片台
-http://23.26.239.95:3599/xsj.php?id=tvb-yueyu
+
 https://test.zapi.us.kg/?id=tvb-yueyu
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港澳台",TVB 星河台
 http://23.26.239.95:3599/xsj.php?id=tvb-xinghe
 https://test.zapi.us.kg/?id=tvb-xinghe
 #EXTINF:-1,tvg-id="TVB亚洲剧" tvg-name="TVB亚洲剧" tvg-logo="https://epg.v1.mk/logo/TVB亚洲剧.png" group-title="港澳台",TVB 亚洲剧台
-http://23.26.239.95:3599/xsj.php?id=tvb-asia-drama
+
 https://test.zapi.us.kg/?id=tvb-asia-drama
 #EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="港澳台",TVB 娱乐新闻台
-http://23.26.239.95:3599/xsj.php?id=TVB ylxw
+ 
 https://test.zapi.us.kg/?id=TVB ylxw
 #EXTINF:-1,tvg-id="j2" tvg-name="j2" tvg-logo="https://epg.v1.mk/logo/j2.png" group-title="港澳台",J2
-http://23.26.239.95:3599/xsj.php?id=j2
+
 https://test.zapi.us.kg/?id=j2
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 明珠台
-http://23.26.239.95:3599/xsj.php?id=pearl
+
 https://test.zapi.us.kg/?id=pearl
 #EXTINF:-1,tvg-id="TVB华语剧" tvg-name="TVB华语剧" tvg-logo="https://epg.v1.mk/logo/TVB华语剧.png" group-title="港澳台",TVB 华语剧台
-http://23.26.239.95:3599/xsj.php?id=tvb-drama
+
 https://test.zapi.us.kg/?id=tvb-drama
 #EXTINF:-1,tvg-id="tvb功夫台" tvg-name="tvb功夫台" tvg-logo="https://epg.v1.mk/logo/tvb功夫台.png" group-title="港澳台",TVB功夫台
-http://23.26.239.95:3599/xsj.php?id=tvb-kongfu
+
 https://test.zapi.us.kg/?id=tvb-kongfu
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="卫视",凤凰卫视 资讯台
-http://23.26.239.95:3599/xsj.php?id=phtv-info
+
 https://test.zapi.us.kg/?id=phtv-info
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="卫视",凤凰卫视 中文台
-http://23.26.239.95:3599/xsj.php?id=phtv-cn
+
 https://test.zapi.us.kg/?id=phtv-cn
 #EXTINF:-1,tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港台.png" group-title="卫视",凤凰卫视 香港台
-http://23.26.239.95:3599/xsj.php?id=phtv-hk
+
 https://test.zapi.us.kg/?id=phtv-hk
 #EXTINF:-1,tvg-id="凤凰卫视电影台" tvg-name="凤凰卫视电影台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视电影台.png" group-title="卫视",凤凰卫视电影台
-http://23.26.239.95:3599/xsj.php?id=phtv-movies
+
 https://test.zapi.us.kg/?id=phtv-movies
 #EXTINF:-1,tvg-id="hoy资讯台" tvg-name="hoy资讯台" tvg-logo="https://epg.v1.mk/logo/hoy资讯台.png" group-title="其他",HOY 资讯台
-http://23.26.239.95:3599/xsj.php?id=hoy-info
+
 https://test.zapi.us.kg/?id=hoy-info
 #EXTINF:-1,tvg-id="hoytv" tvg-name="hoytv" tvg-logo="https://epg.v1.mk/logo/hoytv.png" group-title="其他",HOY TV
-http://23.26.239.95:3599/xsj.php?id=hoytv
+
 https://test.zapi.us.kg/?id=hoytv
 #EXTINF:-1,tvg-id="HOY国际财经台" tvg-name="HOY国际财经台" tvg-logo="https://epg.v1.mk/logo/HOY国际财经台.png" group-title="其他",HOY国际财经
-http://23.26.239.95:3599/xsj.php/?id=hoy-ibc
+
 https://test.zapi.us.kg/?id=hoy-ibc
 #EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="其他",ViuTV
-http://23.26.239.95:3599/xsj.php/?id=viutv
+
 https://test.zapi.us.kg/?id=viutv
 #EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="其他",ViuTV6
-http://23.26.239.95:3599/xsj.php/?id=viutv6
+
 https://test.zapi.us.kg/?id=viutv6
 #EXTINF:-1,tvg-id="天映" tvg-name="天映" tvg-logo="https://epg.v1.mk/logo/天映.png" group-title="其他",天映频道
-http://23.26.239.95:3599/xsj.php/?id=celestial
+
 https://test.zapi.us.kg/?id=celestial
 #EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="其他",天映经典
-http://23.26.239.95:3599/xsj.php/?id=cccm
+
 https://test.zapi.us.kg/?id=cccm
 #EXTINF:-1,tvg-id="thrill" tvg-name="thrill" tvg-logo="https://epg.v1.mk/logo/thrill.png" group-title="其他",Thrill
-http://23.26.239.95:3599/xsj.php/?id=thrill
+
 https://test.zapi.us.kg/?id=thrill
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.v1.mk/logo/星空卫视.png" group-title="卫视",星空卫视
-http://23.26.239.95:3599/xsj.php/?id=star-xing-kong
+
 https://test.zapi.us.kg/?id=star-xing-kong
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.v1.mk/logo/香港卫视.png" group-title="卫视",香港卫视
-http://23.26.239.95:3599/xsj.php/?id=hks
+
 https://test.zapi.us.kg/?id=hks
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.v1.mk/logo/澳亚卫视.png" group-title="卫视",澳亚卫视
-http://23.26.239.95:3599/xsj.php/?id=mastv
+
 https://test.zapi.us.kg/?id=mastv
 #EXTINF:-1,tvg-id="澳门卫星" tvg-name="澳门卫星" tvg-logo="https://epg.v1.mk/logo/澳门卫星.png" group-title="卫视",澳门卫视
-http://23.26.239.95:3599/xsj.php/?id=mstv
+
 https://test.zapi.us.kg/?id=mstv
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.v1.mk/logo/澳门莲花.png" group-title="卫视",澳门莲花卫视
-http://23.26.239.95:3599/xsj.php/?id=lotustv
+
 https://test.zapi.us.kg/?id=lotustv
 #EXTINF:-1,tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://epg.v1.mk/logo/澳门资讯.png" group-title="其他",澳门资讯
-http://23.26.239.95:3599/xsj.php/?id=tdm-information
+
 https://test.zapi.us.kg/?id=tdm-information
 #EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.v1.mk/logo/澳视澳门.png" group-title="其他",澳视澳门
-http://23.26.239.95:3599/xsj.php/?id=tdm
+
 https://test.zapi.us.kg/?id=tdm
 #EXTINF:-1,tvg-id="HKC18" tvg-name="HKC18" tvg-logo="https://epg.v1.mk/logo/HKC18.png" group-title="其他",HKC 18台
-http://23.26.239.95:3599/xsj.php/?id=hkc18
+
 https://test.zapi.us.kg/?id=hkc18
 #EXTINF:-1,tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://epg.v1.mk/logo/港台电视31.png" group-title="港澳台",港台电视 31
-http://23.26.239.95:3599/xsj.php/?id=rthk31
+
 https://test.zapi.us.kg/?id=rthk31
 #EXTINF:-1,tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://epg.v1.mk/logo/港台电视32.png" group-title="港澳台",港台电视 32
-http://23.26.239.95:3599/xsj.php/?id=rthk32
+
 https://test.zapi.us.kg/?id=rthk32
 #EXTINF:-1,tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="其他",Now 财经台
-http://23.26.239.95:3599/xsj.php/?id=now-finance
+
 https://test.zapi.us.kg/?id=now-finance
 #EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="其他",Now 爆谷台
-http://23.26.239.95:3599/xsj.php/?id=baogu-movies
+
 https://test.zapi.us.kg/?id=baogu-movies
 #EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="其他",Now 星影台
-http://23.26.239.95:3599/xsj.php/?id=now-baogu-superstars
+
 https://test.zapi.us.kg/?id=now-baogu-superstars
 #EXTINF:-1,tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://epg.v1.mk/logo/now新闻台.png" group-title="其他",Now 新闻台
-http://23.26.239.95:3599/xsj.php/?id=now-news
+
 https://test.zapi.us.kg/?id=now-news
 #EXTINF:-1,tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.v1.mk/logo/Now直播台.png" group-title="其他",Now 直播台
-http://23.26.239.95:3599/xsj.php/?id=now-direct
+
 https://test.zapi.us.kg/?id=now-direct
 #EXTINF:-1,tvg-id="Now报价台" tvg-name="Now报价台" tvg-logo="https://epg.v1.mk/logo/Now报价台.png" group-title="其他",Now报价台
-http://23.26.239.95:3599/xsj.php/?id=now-data
+
 https://test.zapi.us.kg/?id=now-data
 #EXTINF:-1,tvg-id="NOWJELLI" tvg-name="NOWJELLI" tvg-logo="https://epg.v1.mk/logo/NOWJELLI.png" group-title="其他",Now jelli紫金国际台
-http://23.26.239.95:3599/xsj.php/?id=now-jelli
+
 https://test.zapi.us.kg/?id=now-jelli
 #EXTINF:-1,tvg-id="Now华剧台" tvg-name="Now华剧台" tvg-logo="https://epg.v1.mk/logo/Now华剧台.png" group-title="其他",Now华剧台
-http://23.26.239.95:3599/xsj.php/?id=now-chinese-drama
+
 https://test.zapi.us.kg/?id=now-chinese-drama
 #EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://epg.v1.mk/logo/HBO Family.png" group-title="港澳台",HBO Now115
-http://23.26.239.95:3599/xsj.php/?id=Now-HBO
+
 https://test.zapi.us.kg/?id=Now-HBO
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="港澳台",Now HBO Hits
-http://23.26.239.95:3599/xsj.php/?id=now-hbo-hits
+
 https://test.zapi.us.kg/?id=now-hbo-hits
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="港澳台",Now HBO Family
-http://23.26.239.95:3599/xsj.php/?id=now-hbof-amily
+
 https://test.zapi.us.kg/?id=now-hbof-amily
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="港澳台",Now HBO Signature
-http://23.26.239.95:3599/xsj.php/?id=now-hbo-signature
+
 https://test.zapi.us.kg/?id=now-hbo-signature
 #EXTINF:-1,tvg-id="MOVIEMOVIE" tvg-name="MOVIEMOVIE" tvg-logo="https://epg.v1.mk/logo/MOVIEMOVIE.png" group-title="其他",MovieMovie
-http://23.26.239.95:3599/xsj.php/?id=moviemovie
+
 https://test.zapi.us.kg/?id=moviemovie
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",NowViu剧集台
-http://23.26.239.95:3599/xsj.php/?id=now-viu-drama
+
 https://test.zapi.us.kg/?id=now-viu-drama
 #EXTINF:-1,tvg-id="NOWSPORTS618" tvg-name="NOWSPORTS618" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS618.png" group-title="其他",Now Sports 641
-http://23.26.239.95:3599/xsj.php/?id=now-sports641
+
 https://test.zapi.us.kg/?id=now-sports641
 #EXTINF:-1,tvg-id="NOWNEW" tvg-name="NOWNEW" tvg-logo="https://epg.v1.mk/logo/NOWNEW.png" group-title="其他",Now NBA
-http://23.26.239.95:3599/xsj.php/?id=now-nba
+
 https://test.zapi.us.kg/?id=now-nba
 #EXTINF:-1,tvg-id="曼联电视" tvg-name="曼联电视" tvg-logo="https://epg.v1.mk/logo/曼联电视.png" group-title="其他",曼联电视频道
-http://23.26.239.95:3599/xsj.php/?id=now-mutv
+
 https://test.zapi.us.kg/?id=now-mutv
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",Now SPOTV
-http://23.26.239.95:3599/xsj.php/?id=now-spotv
+
 https://test.zapi.us.kg/?id=now-spotv
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",Now SPOTV2
-http://23.26.239.95:3599/xsj.php/?id=now-spotv2
+
 https://test.zapi.us.kg/?id=now-spotv2
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",Now Sports精选
-http://23.26.239.95:3599/xsj.php/?id=now-sports-prime
+
 https://test.zapi.us.kg/?id=now-sports-prime
 #EXTINF:-1,tvg-id="NOWSPORTS1" tvg-name="NOWSPORTS1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS1.png" group-title="其他",Now Sports 1
-http://23.26.239.95:3599/xsj.php/?id=now-sports-1
+
 https://test.zapi.us.kg/?id=now-sports-1
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",Now Sports 2
-http://23.26.239.95:3599/xsj.php/?id=now-sports-2
+
 https://test.zapi.us.kg/?id=now-sports-2
 #EXTINF:-1,tvg-id="NOWSPORTS3" tvg-name="NOWSPORTS3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS3.png" group-title="其他",Now Sports 3
-http://23.26.239.95:3599/xsj.php/?id=now-sports-3
+
 https://test.zapi.us.kg/?id=now-sports-3
 #EXTINF:-1,tvg-id="NOWSPORTS4" tvg-name="NOWSPORTS4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS4.png" group-title="其他",Now Sports 4
-http://23.26.239.95:3599/xsj.php/?id=now-sports-4
+
 https://test.zapi.us.kg/?id=now-sports-4
 #EXTINF:-1,tvg-id="NOWSPORTS5" tvg-name="NOWSPORTS5" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS5.png" group-title="其他",Now Sports 5
-http://23.26.239.95:3599/xsj.php/?id=now-sports-5
+
 https://test.zapi.us.kg/?id=now-sports-5
 #EXTINF:-1,tvg-id="NOWSPORTS6" tvg-name="NOWSPORTS6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS6.png" group-title="其他",Now Sports 6
-http://23.26.239.95:3599/xsj.php/?id=now-sports-6
+
 https://test.zapi.us.kg/?id=now-sports-6
 #EXTINF:-1,tvg-id="NOWSPORTS7" tvg-name="NOWSPORTS7" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS7.png" group-title="其他",Now Sports 7
-http://23.26.239.95:3599/xsj.php/?id=now-sports-7
+
 https://test.zapi.us.kg/?id=now-sports-7
 #EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="其他",Now Sports Plus
-http://23.26.239.95:3599/xsj.php/?id=now-sports-plus
+
 https://test.zapi.us.kg/?id=now-sports-plus
 #EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="其他",Now Sports 英超1
-http://23.26.239.95:3599/xsj.php/?id=now-sports-premier-league1
+
 https://test.zapi.us.kg/?id=now-sports-premier-league1
 #EXTINF:-1,tvg-id="NOWBGT" tvg-name="NOWBGT" tvg-logo="https://epg.v1.mk/logo/NOWBGT.png" group-title="其他",Now beIN SPORTS 1
-http://23.26.239.95:3599/xsj.php/?id=now-bein-sports1
+
 https://test.zapi.us.kg/?id=now-bein-sports1
 #EXTINF:-1,tvg-id="NOWBGT" tvg-name="NOWBGT" tvg-logo="https://epg.v1.mk/logo/NOWBGT.png" group-title="其他",Now beIN SPORTS 2
-http://23.26.239.95:3599/xsj.php/?id=now-bein-sports2
+
 https://test.zapi.us.kg/?id=now-bein-sports2
 #EXTINF:-1,tvg-id="NOWBGT" tvg-name="NOWBGT" tvg-logo="https://epg.v1.mk/logo/NOWBGT.png" group-title="其他",Now beIN SPORTS 3
-http://23.26.239.95:3599/xsj.php/?id=now-bein-sports3
+
 https://test.zapi.us.kg/?id=now-bein-sports3
 #EXTINF:-1,tvg-id="Now668" tvg-name="Now668" tvg-logo="https://epg.v1.mk/logo/Now668.png" group-title="其他",Now 668
-http://23.26.239.95:3599/xsj.php?id=now-668
+
 https://test.zapi.us.kg/?id=now-668
 #EXTINF:-1,tvg-id="NOWGOLF2" tvg-name="NOWGOLF2" tvg-logo="https://epg.v1.mk/logo/NOWGOLF2.png" group-title="其他",Now Golf 2
-http://23.26.239.95:3599/xsj.php/?id=now-golf2
+
 https://test.zapi.us.kg/?id=now-golf2
 #EXTINF:-1,tvg-id="NOWGOLF3" tvg-name="NOWGOLF3" tvg-logo="https://epg.v1.mk/logo/NOWGOLF3.png" group-title="其他",Now Golf 3
-http://23.26.239.95:3599/xsj.php/?id=now-golf3
+
 https://test.zapi.us.kg/?id=now-golf3
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民视
-http://23.26.239.95:3599/xsj.php/?id=ftv
+
 https://test.zapi.us.kg/?id=ftv
 #EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="台湾",民视台湾台
-http://23.26.239.95:3599/xsj.php/?id=ftv-tw
+
 https://test.zapi.us.kg/?id=ftv-tw
 #EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.v1.mk/logo/民视第一台.png" group-title="港澳台",民视第一台
-http://23.26.239.95:3599/xsj.php/?id=ftv-one
+
 https://test.zapi.us.kg/?id=ftv-one
 #EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="港澳台",纬来日本
-http://23.26.239.95:3599/xsj.php/?id=videoland-japan
+
 https://test.zapi.us.kg/?id=videoland-japan
 #EXTINF:-1,tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="https://epg.v1.mk/logo/纬来综合.png" group-title="港澳台",纬来综合
-http://23.26.239.95:3599/xsj.php/?id=videoland
+
 https://test.zapi.us.kg/?id=videoland
 #EXTINF:-1,tvg-id="八大综合" tvg-name="八大综合" tvg-logo="https://epg.v1.mk/logo/八大综合.png" group-title="其他",八大综合
-http://23.26.239.95:3599/xsj.php/?id=gtv28
+
 https://test.zapi.us.kg/?id=gtv28
 #EXTINF:-1,tvg-id="八大第一" tvg-name="八大第一" tvg-logo="https://epg.v1.mk/logo/八大第一.png" group-title="其他",八大第一
-http://23.26.239.95:3599/xsj.php/?id=gtv27
+
 https://test.zapi.us.kg/?id=gtv27
 #EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.v1.mk/logo/TVBS精采台.png" group-title="港澳台",TVBS 精采台
-http://23.26.239.95:3599/xsj.php/?id=tvbs-jc
+
 https://test.zapi.us.kg/?id=tvbs-jc
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.v1.mk/logo/TVBS欢乐台.png" group-title="港澳台",TVBS 欢乐台
-http://23.26.239.95:3599/xsj.php/?id=tvbs-huanle
+
 https://test.zapi.us.kg/?id=tvbs-huanle
 #EXTINF:-1,tvg-id="TVBSASIA" tvg-name="TVBSASIA" tvg-logo="https://epg.v1.mk/logo/TVBSASIA.png" group-title="港澳台",TVBS Asia
-http://23.26.239.95:3599/xsj.php/?id=tvbs-asia
+
 https://test.zapi.us.kg/?id=tvbs-asia
 #EXTINF:-1,tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://epg.v1.mk/logo/三立台湾台.png" group-title="台湾",三立台湾台
-http://23.26.239.95:3599/xsj.php/?id=settv-taiwan
+
 https://test.zapi.us.kg/?id=settv-taiwan
 #EXTINF:-1,tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.v1.mk/logo/三立综合台.png" group-title="其他",三立综合台
-http://23.26.239.95:3599/xsj.php/?id=settv-zonghe
+
 https://test.zapi.us.kg/?id=settv-zonghe
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="港澳台",台视
-http://23.26.239.95:3599/xsj.php/?id=ttv
+
 https://test.zapi.us.kg/?id=ttv
 #EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.v1.mk/logo/东森超视.png" group-title="港澳台",东森超视
-http://23.26.239.95:3599/xsj.php/?id=ebc-super
+
 https://test.zapi.us.kg/?id=ebc-super
 #EXTINF:-1,tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://epg.v1.mk/logo/东森综合台.png" group-title="港澳台",东森综合台
-http://23.26.239.95:3599/xsj.php/?id=ebc-ettv
+
 https://test.zapi.us.kg/?id=ebc-ettv
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中视
-http://23.26.239.95:3599/xsj.php/?id=ctv
+
 https://test.zapi.us.kg/?id=ctv
 #EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.v1.mk/logo/中视菁采台.png" group-title="港澳台",中视菁采台
-http://23.26.239.95:3599/xsj.php/?id=bravo
+
 https://test.zapi.us.kg/?id=bravo
 #EXTINF:-1,tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://epg.v1.mk/logo/中天亚洲.png" group-title="其他",中天亚洲
-http://23.26.239.95:3599/xsj.php/?id=cti-asia
+
 https://test.zapi.us.kg/?id=cti-asia
 #EXTINF:-1,tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://epg.v1.mk/logo/中天综合.png" group-title="其他",中天综合
-http://23.26.239.95:3599/xsj.php/?id=ctitv36
+
 https://test.zapi.us.kg/?id=ctitv36
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",华视
-http://23.26.239.95:3599/xsj.php/?id=cts
+
 https://test.zapi.us.kg/?id=cts
 #EXTINF:-1,tvg-id="LIVEABC互动英语" tvg-name="LIVEABC互动英语" tvg-logo="https://epg.v1.mk/logo/LIVEABC互动英语.png" group-title="其他",LiveABC 互动英语频道
-http://23.26.239.95:3599/xsj.php/?id=liveabc
+
 https://test.zapi.us.kg/?id=liveabc
 #EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.v1.mk/logo/好消息.png" group-title="其他",好消息
-http://23.26.239.95:3599/xsj.php/?id=goodtv
+
 https://test.zapi.us.kg/?id=goodtv
 #EXTINF:-1,tvg-id="KLT靖天国际台" tvg-name="KLT靖天国际台" tvg-logo="https://epg.v1.mk/logo/KLT靖天国际台.png" group-title="其他",KLT-靖天国际台
-http://23.26.239.95:3599/xsj.php/?id=jtgj
+
 https://test.zapi.us.kg/?id=jtgj
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA综合台
-http://23.26.239.95:3599/xsj.php/?id=elta-zonghe
+
 https://test.zapi.us.kg/?id=elta-zonghe
 #EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="台湾",公视
-http://23.26.239.95:3599/xsj.php/?id=pts
+
 https://test.zapi.us.kg/?id=pts
 #EXTINF:-1,tvg-id="公视3台" tvg-name="公视3台" tvg-logo="https://epg.v1.mk/logo/公视3台.png" group-title="台湾",公视3台
-http://23.26.239.95:3599/xsj.php/?id=pts-3
+
 https://test.zapi.us.kg/?id=pts-3
 #EXTINF:-1,tvg-id="公视台语台" tvg-name="公视台语台" tvg-logo="https://epg.v1.mk/logo/公视台语台.png" group-title="台湾",公视台语台
-http://23.26.239.95:3599/xsj.php/?id=pts-ty
+
 https://test.zapi.us.kg/?id=pts-ty
 #EXTINF:-1,tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://epg.v1.mk/logo/靖天综合台.png" group-title="其他",靖天综合台
-http://23.26.239.95:3599/xsj.php/?id=jtzh
+
 https://test.zapi.us.kg/?id=jtzh
 #EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.v1.mk/logo/靖天日本台.png" group-title="其他",靖天日本台
-http://23.26.239.95:3599/xsj.php/?id=jtrb
+
 https://test.zapi.us.kg/?id=jtrb
 #EXTINF:-1,tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://epg.v1.mk/logo/客家电视台.png" group-title="台湾",客家电视台
-http://23.26.239.95:3599/xsj.php/?id=hakkatv
+
 https://test.zapi.us.kg/?id=hakkatv
 #EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.v1.mk/logo/大爱一台.png" group-title="港澳台",大爱一台
-http://23.26.239.95:3599/xsj.php/?id=daai1
+
 https://test.zapi.us.kg/?id=daai1
 #EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.v1.mk/logo/大爱二台.png" group-title="港澳台",大爱二台
-http://23.26.239.95:3599/xsj.php/?id=daai2
+
 https://test.zapi.us.kg/?id=daai2
 #EXTINF:-1,tvg-id="ARIRANG阿里郎" tvg-name="ARIRANG阿里郎" tvg-logo="https://epg.v1.mk/logo/ARIRANG阿里郎.png" group-title="台湾",ARIRANG 阿里郎频道
-http://23.26.239.95:3599/xsj.php/?id=arirang
+
 https://test.zapi.us.kg/?id=arirang
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="台湾",中天新闻
-http://23.26.239.95:3599/xsj.php/?id=cti-news
+
 https://test.zapi.us.kg/?id=cti-news
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS 新闻台
-http://23.26.239.95:3599/xsj.php/?id=tvbs-news
+
 https://test.zapi.us.kg/?id=tvbs-news
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="港澳台",TVBS HD
-http://23.26.239.95:3599/xsj.php/?id=tvbs-hd
+
 https://test.zapi.us.kg/?id=tvbs-hd
 #EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港澳台",东森新闻
-http://23.26.239.95:3599/xsj.php/?id=ebc-news
+
 https://test.zapi.us.kg/?id=ebc-news
 #EXTINF:-1,tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://epg.v1.mk/logo/东森财经新闻.png" group-title="港澳台",东森财经新闻
-http://23.26.239.95:3599/xsj.php/?id=ebc-finance
+
 https://test.zapi.us.kg/?id=ebc-finance
 #EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="其他",寰宇新闻台
-http://23.26.239.95:3599/xsj.php/?id=global-news
+
 https://test.zapi.us.kg/?id=global-news
 #EXTINF:-1,tvg-id="寰宇财经台" tvg-name="寰宇财经台" tvg-logo="https://epg.v1.mk/logo/寰宇财经台.png" group-title="其他",寰宇财经台
-http://23.26.239.95:3599/xsj.php/?id=global-finance
+
 https://test.zapi.us.kg/?id=global-finance
 #EXTINF:-1,tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台湾台.png" group-title="台湾",寰宇新闻台湾台
-http://23.26.239.95:3599/xsj.php/?id=global-news-tw
+
 https://test.zapi.us.kg/?id=global-news-tw
 #EXTINF:-1,tvg-id="壹新闻" tvg-name="壹新闻" tvg-logo="https://epg.v1.mk/logo/壹新闻.png" group-title="其他",壹新闻 HD
-http://23.26.239.95:3599/xsj.php/?id=nexttv
+
 https://test.zapi.us.kg/?id=nexttv
 #EXTINF:-1,tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="其他",三立新闻
-http://23.26.239.95:3599/xsj.php/?id=settv-news
+
 https://test.zapi.us.kg/?id=settv-news
 #EXTINF:-1,tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://epg.v1.mk/logo/三立iNEWS.png" group-title="其他",三立iNews
-http://23.26.239.95:3599/xsj.php/?id=settv-inews
+
 https://test.zapi.us.kg/?id=settv-inews
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.v1.mk/logo/中视新闻.png" group-title="港澳台",中视新闻
-http://23.26.239.95:3599/xsj.php/?id=ctv-news
+
 https://test.zapi.us.kg/?id=ctv-news
 #EXTINF:-1,tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="其他",非凡新闻
-http://23.26.239.95:3599/xsj.php/?id=unique-business-news
+
 https://test.zapi.us.kg/?id=unique-business-news
 #EXTINF:-1,tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://epg.v1.mk/logo/年代新闻.png" group-title="港澳台",年代新闻
-http://23.26.239.95:3599/xsj.php/?id=era-news
+
 https://test.zapi.us.kg/?id=era-news
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="港澳台",民视新闻台
-http://23.26.239.95:3599/xsj.php/?id=ftv-news
+
 https://test.zapi.us.kg/?id=ftv-news
 #EXTINF:-1,tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.v1.mk/logo/台视新闻.png" group-title="港澳台",台视新闻
-http://23.26.239.95:3599/xsj.php/?id=ttv-news
+
 https://test.zapi.us.kg/?id=ttv-news
 #EXTINF:-1,tvg-id="MNEWS镜新闻" tvg-name="MNEWS镜新闻" tvg-logo="https://epg.v1.mk/logo/MNEWS镜新闻.png" group-title="其他",镜电视新闻台
-http://23.26.239.95:3599/xsj.php/?id=mnews
+
 https://test.zapi.us.kg/?id=mnews
 #EXTINF:-1,tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://epg.v1.mk/logo/华视新闻.png" group-title="港澳台",华视新闻
-http://23.26.239.95:3599/xsj.php/?id=cts-news
+
 https://test.zapi.us.kg/?id=cts-news
 #EXTINF:-1,tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="https://epg.v1.mk/logo/半岛国际新闻台.png" group-title="其他",半岛国际新闻台
-http://23.26.239.95:3599/xsj.php/?id=aljazeera
+
 https://test.zapi.us.kg/?id=aljazeera
 #EXTINF:-1,tvg-id="SBN全球财经台" tvg-name="SBN全球财经台" tvg-logo="https://epg.v1.mk/logo/SBN全球财经台.png" group-title="其他",SBN 全球财经台
-http://23.26.239.95:3599/xsj.php/?id=sbn
+
 https://test.zapi.us.kg/?id=sbn
 #EXTINF:-1,tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://epg.v1.mk/logo/靖天资讯台.png" group-title="其他",靖天资讯台
-http://23.26.239.95:3599/xsj.php/?id=jtzx
+
 https://test.zapi.us.kg/?id=jtzx
 #EXTINF:-1,tvg-id="霹雳台湾台" tvg-name="霹雳台湾台" tvg-logo="https://epg.v1.mk/logo/霹雳台湾台.png" group-title="台湾",霹雳台湾台
-http://23.26.239.95:3599/xsj.php/?id=pilitv
+
 https://test.zapi.us.kg/?id=pilitv
 #EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/纬来电影台.png" group-title="港澳台",纬来电影台
-http://23.26.239.95:3599/xsj.php/?id=videoland-movie
+
 https://test.zapi.us.kg/?id=videoland-movie
 #EXTINF:-1,tvg-id="纬来戏剧" tvg-name="纬来戏剧" tvg-logo="https://epg.v1.mk/logo/纬来戏剧.png" group-title="港澳台",纬来戏剧
-http://23.26.239.95:3599/xsj.php/?id=videoland-drama
+
 https://test.zapi.us.kg/?id=videoland-drama
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVBS综艺台
-http://23.26.239.95:3599/xsj.php/?id=tvbs-zongyi
+
 https://test.zapi.us.kg/?id=tvbs-zongyi
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVBS台剧台
-http://23.26.239.95:3599/xsj.php/?id=tvbs-taiju
+
 https://test.zapi.us.kg/?id=tvbs-taiju
 #EXTINF:-1,tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="https://epg.v1.mk/logo/龙祥电影.png" group-title="其他",龙祥电影台
-http://23.26.239.95:3599/xsj.php/?id=lstime
+
 https://test.zapi.us.kg/?id=lstime
 #EXTINF:-1,tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.v1.mk/logo/龙华电影台.png" group-title="其他",龙华电影台
-http://23.26.239.95:3599/xsj.php/?id=ltv-movies
+
 https://test.zapi.us.kg/?id=ltv-movies
 #EXTINF:-1,tvg-id="龙华戏剧台" tvg-name="龙华戏剧台" tvg-logo="https://epg.v1.mk/logo/龙华戏剧台.png" group-title="其他",龙华戏剧台
-http://23.26.239.95:3599/xsj.php/?id=ltv-xiju
+
 https://test.zapi.us.kg/?id=ltv-xiju
-#EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.v1.mk/logo/龙华日韩台.png" group-title="其他",龙华日韩台
-http://23.26.239.95:3599/xsj.php/?id=ltv-rihan
+#EXTINE:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.v1.mk/logo/龙华日韩台.png" group-title="其他",龙华日韩台
+
 https://test.zapi.us.kg/?id=ltv-rihan
 #EXTINF:-1,tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="港澳台",东森电影
-http://23.26.239.95:3599/xsj.php/?id=ebc-movie
+
 https://test.zapi.us.kg/?id=ebc-movie
 #EXTINF:-1,tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://epg.v1.mk/logo/东森戏剧.png" group-title="港澳台",东森戏剧
-http://23.26.239.95:3599/xsj.php/?id=ebc-drama
+
 https://test.zapi.us.kg/?id=ebc-drama
 #EXTINF:-1,tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="港澳台",东森洋片
-http://23.26.239.95:3599/xsj.php/?id=ebc-emovie
+
 https://test.zapi.us.kg/?id=ebc-emovie
 #EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://epg.v1.mk/logo/八大精彩台.png" group-title="其他",八大精彩台
-http://23.26.239.95:3599/xsj.php/?id=gtv-jct
+
 https://test.zapi.us.kg/?id=gtv-jct
 #EXTINF:-1,tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://epg.v1.mk/logo/八大戏剧.png" group-title="其他",八大戏剧
-http://23.26.239.95:3599/xsj.php/?id=gtv-41
+
 https://test.zapi.us.kg/?id=gtv-41
 #EXTINF:-1,tvg-id="八大娱乐" tvg-name="八大娱乐" tvg-logo="https://epg.v1.mk/logo/八大娱乐.png" group-title="其他",八大娱乐
-http://23.26.239.95:3599/xsj.php/?id=gtv-86
+
 https://test.zapi.us.kg/?id=gtv-86
 #EXTINF:-1,tvg-id="八大综艺" tvg-name="八大综艺" tvg-logo="https://epg.v1.mk/logo/八大综艺.png" group-title="其他",八大综艺
-http://23.26.239.95:3599/xsj.php/?id=grt
+
 https://test.zapi.us.kg/?id=grt
 #EXTINF:-1,tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://epg.v1.mk/logo/采昌影剧台.png" group-title="其他",采昌影剧台
-http://23.26.239.95:3599/xsj.php/?id=caichang
+
 https://test.zapi.us.kg/?id=caichang
 #EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="其他",美亚电影台
-http://23.26.239.95:3599/xsj.php/?id=meiah-movies
+
 https://test.zapi.us.kg/?id=meiah-movies
 #EXTINF:-1,tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://epg.v1.mk/logo/猪哥亮歌厅秀.png" group-title="其他",猪哥亮歌厅秀
-http://23.26.239.95:3599/xsj.php/?id=zglgtx
+
 https://test.zapi.us.kg/?id=zglgtx
 #EXTINF:-1,tvg-id="民视综艺" tvg-name="民视综艺" tvg-logo="https://epg.v1.mk/logo/民视综艺.png" group-title="港澳台",民视综艺
-http://23.26.239.95:3599/xsj.php/?id=ftv-reality
+
 https://test.zapi.us.kg/?id=ftv-reality
 #EXTINF:-1,tvg-id="民视影剧" tvg-name="民视影剧" tvg-logo="https://epg.v1.mk/logo/民视影剧.png" group-title="港澳台",民视影剧
-http://23.26.239.95:3599/xsj.php/?id=ftv-drama
+
 https://test.zapi.us.kg/?id=ftv-drama
 #EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.v1.mk/logo/三立都会台.png" group-title="其他",三立都会台
-http://23.26.239.95:3599/xsj.php/?id=settv-city
+
 https://test.zapi.us.kg/?id=settv-city
 #EXTINF:-1,tvg-id="三立戏剧台" tvg-name="三立戏剧台" tvg-logo="https://epg.v1.mk/logo/三立戏剧台.png" group-title="其他",三立戏剧台
-http://23.26.239.95:3599/xsj.php/?id=settv-drama
+
 https://test.zapi.us.kg/?id=settv-drama
 #EXTINF:-1,tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典台.png" group-title="港澳台",中视经典台
-http://23.26.239.95:3599/xsj.php/?id=ctv-classic
+
 https://test.zapi.us.kg/?id=ctv-classic
 #EXTINF:-1,tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://epg.v1.mk/logo/中天娱乐.png" group-title="其他",中天娱乐
-http://23.26.239.95:3599/xsj.php/?id=cti-yule
+
 https://test.zapi.us.kg/?id=cti-yule
 #EXTINF:-1,tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://epg.v1.mk/logo/靖洋戏剧台.png" group-title="其他",靖洋戏剧台
-http://23.26.239.95:3599/xsj.php/?id=jyxj
+
 https://test.zapi.us.kg/?id=jyxj
 #EXTINF:-1,tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.v1.mk/logo/靖天映画.png" group-title="其他",靖天映画
-http://23.26.239.95:3599/xsj.php/?id=jtyh
+
 https://test.zapi.us.kg/?id=jtyh
 #EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.v1.mk/logo/靖天电影台.png" group-title="其他",靖天电影台
-http://23.26.239.95:3599/xsj.php/?id=jtdy
+
 https://test.zapi.us.kg/?id=jtdy
 #EXTINF:-1,tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://epg.v1.mk/logo/靖天戏剧台.png" group-title="其他",靖天戏剧台
-http://23.26.239.95:3599/xsj.php/?id=jtxjt
+
 https://test.zapi.us.kg/?id=jtxjt
 #EXTINF:-1,tvg-id="韩国娱乐台KMTV" tvg-name="韩国娱乐台KMTV" tvg-logo="https://epg.v1.mk/logo/韩国娱乐台KMTV.png" group-title="其他",韩国娱乐台 KMTV
-http://23.26.239.95:3599/xsj.php/?id=kmtv
+
 https://test.zapi.us.kg/?id=kmtv
 #EXTINF:-1,tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://epg.v1.mk/logo/公视戏剧.png" group-title="其他",公视戏剧
-http://23.26.239.95:3599/xsj.php/?id=gsxj
+
 https://test.zapi.us.kg/?id=gsxj
 #EXTINF:-1,tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://epg.v1.mk/logo/影迷数位纪实台.png" group-title="其他",影迷数位纪实台
-http://23.26.239.95:3599/xsj.php/?id=ymswjst
+
 https://test.zapi.us.kg/?id=ymswjst
 #EXTINF:-1,tvg-id="影迷数位电影" tvg-name="影迷数位电影" tvg-logo="https://epg.v1.mk/logo/影迷数位电影.png" group-title="其他",影迷数字电影台
-http://23.26.239.95:3599/xsj.php/?id=fans-cinema
+
 https://test.zapi.us.kg/?id=fans-cinema
 #EXTINF:-1,tvg-id="视纳华仁纪实" tvg-name="视纳华仁纪实" tvg-logo="https://epg.v1.mk/logo/视纳华仁纪实.png" group-title="其他",视纳华仁纪实频道
-http://23.26.239.95:3599/xsj.php/?id=cnex
+
 https://test.zapi.us.kg/?id=cnex
 #EXTINF:-1,tvg-id="MTVLIVEHD音乐" tvg-name="MTVLIVEHD音乐" tvg-logo="https://epg.v1.mk/logo/MTVLIVEHD音乐.png" group-title="其他",MTV Live HD 频道
-http://23.26.239.95:3599/xsj.php/?id=mtv
+
 https://test.zapi.us.kg/?id=mtv
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 娱乐台
-http://23.26.239.95:3599/xsj.php/?id=elta-ylt
+
 https://test.zapi.us.kg/?id=elta-ylt
 #EXTINF:-1,tvg-id="channel5" tvg-name="channel5" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="其他",Channel 5
-http://23.26.239.95:3599/xsj.php/?id=channel-5
+
 https://test.zapi.us.kg/?id=channel-5
 #EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="其他",Channel 8
-http://23.26.239.95:3599/xsj.php/?id=channel8
+
 https://test.zapi.us.kg/?id=channel8
 #EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="其他",Channel U
-http://23.26.239.95:3599/xsj.php/?id=channel-u
+
 https://test.zapi.us.kg/?id=channel-u
 #EXTINF:-1,tvg-id="8TV" tvg-name="8TV" tvg-logo="https://epg.v1.mk/logo/8TV.png" group-title="其他",8TV
-http://23.26.239.95:3599/xsj.php/?id=8tv
+
 https://test.zapi.us.kg/?id=8tv
 #EXTINF:-1,tvg-id="tv9" tvg-name="tv9" tvg-logo="https://epg.v1.mk/logo/tv9.png" group-title="其他",TV9
-http://23.26.239.95:3599/xsj.php/?id=tv9
+
 https://test.zapi.us.kg/?id=tv9
 #EXTINF:-1,tvg-id="CCM" tvg-name="CCM" tvg-logo="https://epg.v1.mk/logo/CCM.png" group-title="其他",CM+
-http://23.26.239.95:3599/xsj.php/?id=cm-plus
+
 https://test.zapi.us.kg/?id=cm-plus
 #EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="其他",E乐
-http://23.26.239.95:3599/xsj.php/?id=singtel-tv
+
 https://test.zapi.us.kg/?id=singtel-tv
 #EXTINF:-1,tvg-id="tv1" tvg-name="tv1" tvg-logo="https://epg.v1.mk/logo/tv1.png" group-title="其他",TV1
-http://23.26.239.95:3599/xsj.php/?id=tv1-my
+
 https://test.zapi.us.kg/?id=tv1-my
 #EXTINF:-1,tvg-id="TV2" tvg-name="TV2" tvg-logo="https://epg.v1.mk/logo/TV2.png" group-title="其他",TV2
-http://23.26.239.95:3599/xsj.php/?id=tv2-my
+
 https://test.zapi.us.kg/?id=tv2-my
 #EXTINF:-1,tvg-id="TV3" tvg-name="TV3" tvg-logo="https://epg.v1.mk/logo/TV3.png" group-title="其他",TV3
-http://23.26.239.95:3599/xsj.php/?id=tv3-my
+
 https://test.zapi.us.kg/?id=tv3-my
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.v1.mk/logo/CHANNELNEWSASIA.png" group-title="其他",ChannelNewsAsia
-http://23.26.239.95:3599/xsj.php/?id=channelnewsasia
+
 https://test.zapi.us.kg/?id=channelnewsasia
 #EXTINF:-1,tvg-id="Okey" tvg-name="Okey" tvg-logo="https://epg.v1.mk/logo/Okey.png" group-title="其他",OKEY
-http://23.26.239.95:3599/xsj.php/?id=okey
+
 https://test.zapi.us.kg/?id=okey
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB Magic
-http://23.26.239.95:3599/xsj.php/?id=tvb-magic
+
 https://test.zapi.us.kg/?id=tvb-magic
 #EXTINF:-1,tvg-id="TVNMovies" tvg-name="TVNMovies" tvg-logo="https://epg.v1.mk/logo/TVNMovies.png" group-title="其他",tvN Movies
-http://23.26.239.95:3599/xsj.php/?id=tvn-movies
+
 https://test.zapi.us.kg/?id=tvn-movies
 #EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="其他",AXN
-http://23.26.239.95:3599/xsj.php/?id=axn
+
 https://test.zapi.us.kg/?id=axn
 #EXTINF:-1,tvg-id="TVALHIJRAH" tvg-name="TVALHIJRAH" tvg-logo="https://epg.v1.mk/logo/TVALHIJRAH.png" group-title="其他",TV Alhijrah
-http://23.26.239.95:3599/xsj.php/?id=tv-alhijrah
+
 https://test.zapi.us.kg/?id=tv-alhijrah
 #EXTINF:-1,tvg-id="COLORSHINDI" tvg-name="COLORSHINDI" tvg-logo="https://epg.v1.mk/logo/COLORSHINDI.png" group-title="其他",ColorsHindi
-http://23.26.239.95:3599/xsj.php/?id=colorshindi
+
 https://test.zapi.us.kg/?id=colorshindi
 #EXTINF:-1,tvg-id="TVS" tvg-name="TVS" tvg-logo="https://epg.v1.mk/logo/TVS.png" group-title="其他",TVS
-http://23.26.239.95:3599/xsj.php/?id=tvs
+
 https://test.zapi.us.kg/?id=tvs
 #EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="其他",tvN
-http://23.26.239.95:3599/xsj.php/?id=tvn
+
 https://test.zapi.us.kg/?id=tvn
 #EXTINF:-1,tvg-id="BERITARTM" tvg-name="BERITARTM" tvg-logo="https://epg.v1.mk/logo/BERITARTM.png" group-title="其他",BeritaRTM
-http://23.26.239.95:3599/xsj.php/?id=beritartm
+
 https://test.zapi.us.kg/?id=beritartm
 #EXTINF:-1,tvg-id="SUKANRTM" tvg-name="SUKANRTM" tvg-logo="https://epg.v1.mk/logo/SUKANRTM.png" group-title="其他",SukanRTM
-http://23.26.239.95:3599/xsj.php/?id=sukanrtm
+
 https://test.zapi.us.kg/?id=sukanrtm
 #EXTINF:-1,tvg-id="HITSMOVIES" tvg-name="HITSMOVIES" tvg-logo="https://epg.v1.mk/logo/HITSMOVIES.png" group-title="其他",HITSMovies
-http://23.26.239.95:3599/xsj.php/?id=hitsmovies
+
 https://test.zapi.us.kg/?id=hitsmovies
 #EXTINF:-1,tvg-id="SPACESHOWERTV" tvg-name="SPACESHOWERTV" tvg-logo="https://epg.v1.mk/logo/SPACESHOWERTV.png" group-title="其他",ShowCase
-http://23.26.239.95:3599/xsj.php/?id=showcase
+
 https://test.zapi.us.kg/?id=showcase
 #EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.v1.mk/logo/BBCEARTH.png" group-title="其他",BBCEarth
-http://23.26.239.95:3599/xsj.php/?id=bbcearth
+
 https://test.zapi.us.kg/?id=bbcearth
 #EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="其他",Mediacorp Suria
-http://23.26.239.95:3599/xsj.php/?id=mediacorp-suria
+
 https://test.zapi.us.kg/?id=mediacorp-suria
 #EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="其他",Mediacorp Vasantham
-http://23.26.239.95:3599/xsj.php/?id=mediacorp-vasantham
+
 https://test.zapi.us.kg/?id=mediacorp-vasantham
 #EXTINF:-1,tvg-id="GEM" tvg-name="GEM" tvg-logo="https://epg.v1.mk/logo/GEM.png" group-title="其他",Gem
-http://23.26.239.95:3599/xsj.php/?id=gem
+
 https://test.zapi.us.kg/?id=gem
 #EXTINF:-1,tvg-id="GLOBAL-NEWS" tvg-name="GLOBAL-NEWS" tvg-logo="https://epg.v1.mk/logo/GLOBAL-NEWS.png" group-title="其他",GlobalTrekker
-http://23.26.239.95:3599/xsj.php/?id=globaltrekker
+
 https://test.zapi.us.kg/?id=globaltrekker
 #EXTINF:-1,tvg-id="DramaSangat" tvg-name="DramaSangat" tvg-logo="https://epg.v1.mk/logo/DramaSangat.png" group-title="其他",DramaSangat
-http://23.26.239.95:3599/xsj.php/?id=dramasangat
+
 https://test.zapi.us.kg/?id=dramasangat
 #EXTINF:-1,tvg-id="SUNTV" tvg-name="SUNTV" tvg-logo="https://epg.v1.mk/logo/SUNTV.png" group-title="其他",SunTV
-http://23.26.239.95:3599/xsj.php/?id=suntv
+
 https://test.zapi.us.kg/?id=suntv
 #EXTINF:-1,tvg-id="SUNMUSIC" tvg-name="SUNMUSIC" tvg-logo="https://epg.v1.mk/logo/SUNMUSIC.png" group-title="其他",SunMusic
-http://23.26.239.95:3599/xsj.php/?id=sunmusic
+
 https://test.zapi.us.kg/?id=sunmusic
 #EXTINF:-1,tvg-id="SUNMUSIC" tvg-name="SUNMUSIC" tvg-logo="https://epg.v1.mk/logo/SUNMUSIC.png" group-title="其他",SunNews
-http://23.26.239.95:3599/xsj.php/?id=sunnews
+
 https://test.zapi.us.kg/?id=sunnews
 #EXTINF:-1,tvg-id="AWESOMETV" tvg-name="AWESOMETV" tvg-logo="https://epg.v1.mk/logo/AWESOMETV.png" group-title="其他",AwesomeTV
-http://23.26.239.95:3599/xsj.php/?id=awesometv
+
 https://test.zapi.us.kg/?id=awesometv
 #EXTINF:-1,tvg-id="DIDIKTVKPM" tvg-name="DIDIKTVKPM" tvg-logo="https://epg.v1.mk/logo/DIDIKTVKPM.png" group-title="其他",DidikTV7
-http://23.26.239.95:3599/xsj.php/?id=didiktv7
+
 https://test.zapi.us.kg/?id=didiktv7
 #EXTINF:-1,tvg-id="Adithya" tvg-name="Adithya" tvg-logo="https://epg.v1.mk/logo/Adithya.png" group-title="其他",Adithya
-http://23.26.239.95:3599/xsj.php/?id=adithya
+
 https://test.zapi.us.kg/?id=adithya
 #EXTINF:-1,tvg-id="KTV" tvg-name="KTV" tvg-logo="https://epg.v1.mk/logo/KTV.png" group-title="其他",KTVHD
-http://23.26.239.95:3599/xsj.php/?id=ktvhd
+
 https://test.zapi.us.kg/?id=ktvhd
 #EXTINF:-1,tvg-id="SUNMUSIC" tvg-name="SUNMUSIC" tvg-logo="https://epg.v1.mk/logo/SUNMUSIC.png" group-title="其他",SunLife
-http://23.26.239.95:3599/xsj.php/?id=sunlife
+
 https://test.zapi.us.kg/?id=sunlife
 #EXTINF:-1,tvg-id="STARVIJAY" tvg-name="STARVIJAY" tvg-logo="https://epg.v1.mk/logo/STARVIJAY.png" group-title="其他",StarVijay
-http://23.26.239.95:3599/xsj.php/?id=starvijay
+
 https://test.zapi.us.kg/?id=starvijay
 #EXTINF:-1,tvg-id="COLORSTAMIL" tvg-name="COLORSTAMIL" tvg-logo="https://epg.v1.mk/logo/COLORSTAMIL.png" group-title="其他",ColorsTamil
-http://23.26.239.95:3599/xsj.php/?id=colorstamil
+
 https://test.zapi.us.kg/?id=colorstamil
 #EXTINF:-1,tvg-id="ZEETAMIL" tvg-name="ZEETAMIL" tvg-logo="https://epg.v1.mk/logo/ZEETAMIL.png" group-title="其他",ZeeTamil
-http://23.26.239.95:3599/xsj.php/?id=zeetamil
+
 https://test.zapi.us.kg/?id=zeetamil
 #EXTINF:-1,tvg-id="ZEECINEMAINTERNATIONAL" tvg-name="ZEECINEMAINTERNATIONAL" tvg-logo="https://epg.v1.mk/logo/ZEECINEMAINTERNATIONAL.png" group-title="其他",ZeeCinemaHD
-http://23.26.239.95:3599/xsj.php/?id=zeecinemahd
+
 https://test.zapi.us.kg/?id=zeecinemahd
 #EXTINF:-1,tvg-id="Boo" tvg-name="Boo" tvg-logo="https://epg.v1.mk/logo/Boo.png" group-title="其他",Boo
-http://23.26.239.95:3599/xsj.php/?id=boo
+
 https://test.zapi.us.kg/?id=boo
 #EXTINF:-1,tvg-id="mtvlive" tvg-name="mtvlive" tvg-logo="https://epg.v1.mk/logo/mtvlive.png" group-title="其他",MTVLive
-http://23.26.239.95:3599/xsj.php/?id=mtvlive
+
 https://test.zapi.us.kg/?id=mtvlive
 #EXTINF:-1,tvg-id="Bernama" tvg-name="Bernama" tvg-logo="https://epg.v1.mk/logo/Bernama.png" group-title="其他",Bernama
-http://23.26.239.95:3599/xsj.php/?id=bernama
+
 https://test.zapi.us.kg/?id=bernama
 #EXTINF:-1,tvg-id="MOOV演唱会" tvg-name="MOOV演唱会" tvg-logo="https://epg.v1.mk/logo/MOOV演唱会.png" group-title="其他",Moonbug
-http://23.26.239.95:3599/xsj.php/?id=moonbug
+
 https://test.zapi.us.kg/?id=moonbug
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",Hub都会
-http://23.26.239.95:3599/xsj.php/?id=HubECity
+
 https://test.zapi.us.kg/?id=HubECity
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",Hub娱家
-http://23.26.239.95:3599/xsj.php/?id=HubVVDrama
+
 https://test.zapi.us.kg/?id=HubVVDrama
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSports 1
-http://23.26.239.95:3599/xsj.php/?id=hubsports1
+
 https://test.zapi.us.kg/?id=hubsports1
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSports2
-http://23.26.239.95:3599/xsj.php/?id=hubsports2
+
 https://test.zapi.us.kg/?id=hubsports2
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSports3
-http://23.26.239.95:3599/xsj.php/?id=hubsports3
+
 https://test.zapi.us.kg/?id=hubsports3
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSport4
-http://23.26.239.95:3599/xsj.php/?id=hubsports4
+
 https://test.zapi.us.kg/?id=hubsports4
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSports Plus
-http://23.26.239.95:3599/xsj.php/?id=hubsports-plus
+
 https://test.zapi.us.kg/?id=hubsports-plus
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",Hub Premier 1
-http://23.26.239.95:3599/xsj.php/?id=hubpremier1
+
 https://test.zapi.us.kg/?id=hubpremier1
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubPremier2
-http://23.26.239.95:3599/xsj.php/?id=hubpremier2
+
 https://test.zapi.us.kg/?id=hubpremier2
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubPremier3
-http://23.26.239.95:3599/xsj.php/?id=hubpremier3
+
 https://test.zapi.us.kg/?id=hubpremier3
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubPremier 4
-http://23.26.239.95:3599/xsj.php/?id=hubpremier4
+
 https://test.zapi.us.kg/?id=hubpremier4
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubPremier 5
-http://23.26.239.95:3599/xsj.php/?id=hubpremier5
+
 https://test.zapi.us.kg/?id=hubpremier5
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",Hub Sensasi
-http://23.26.239.95:3599/xsj.php/?id=hub-sensasi
+
 https://test.zapi.us.kg/?id=hub-sensasi
 #EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="其他",tvn HD
-http://23.26.239.95:3599/xsj.php/?id=tvnhd
+
 https://test.zapi.us.kg/?id=tvnhd
 #EXTINF:-1,tvg-id="ASTROWARNA" tvg-name="ASTROWARNA" tvg-logo="https://epg.v1.mk/logo/ASTROWARNA.png" group-title="港澳台",AstroWarna Hub版
-http://23.26.239.95:3599/xsj.php/?id=astro-warna-hub
+
 https://test.zapi.us.kg/?id=astro-warna-hub
 #EXTINF:-1,tvg-id="ANIONE" tvg-name="ANIONE" tvg-logo="https://epg.v1.mk/logo/ANIONE.png" group-title="其他",ONEMalay
-http://23.26.239.95:3599/xsj.php/?id=one-malay
+
 https://test.zapi.us.kg/?id=one-malay
 #EXTINF:-1,tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="港澳台",Astro AEC
-http://23.26.239.95:3599/xsj.php/?id=astro-aec
+
 https://test.zapi.us.kg/?id=astro-aec
 #EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="港澳台",Astro 欢喜台
-http://23.26.239.95:3599/xsj.php/?id=astro-huaheedai
+
 https://test.zapi.us.kg/?id=astro-huaheedai
 #EXTINF:-1,tvg-id="ASTROSUPERSPORT" tvg-name="ASTROSUPERSPORT" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT.png" group-title="港澳台",Astro SuperSport
-http://23.26.239.95:3599/xsj.php/?id=super-sports1
+
 https://test.zapi.us.kg/?id=super-sports1
 #EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="港澳台",Astro SuperSport 2
-http://23.26.239.95:3599/xsj.php/?id=super-sports2
+
 https://test.zapi.us.kg/?id=super-sports2
 #EXTINF:-1,tvg-id="ASTROSUPERSPORT3" tvg-name="ASTROSUPERSPORT3" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT3.png" group-title="港澳台",Astro SuperSport 3
-http://23.26.239.95:3599/xsj.php/?id=super-sports3
+
 https://test.zapi.us.kg/?id=super-sports3
 #EXTINF:-1,tvg-id="ASTROSUPERSPORT4" tvg-name="ASTROSUPERSPORT4" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT4.png" group-title="港澳台",Astro SuperSport 4
-http://23.26.239.95:3599/xsj.php/?id=super-sports4
+
 https://test.zapi.us.kg/?id=super-sports4
 #EXTINF:-1,tvg-id="ARENA2" tvg-name="ARENA2" tvg-logo="https://epg.v1.mk/logo/ARENA2.png" group-title="其他",Arena Bola
-http://23.26.239.95:3599/xsj.php/?id=arena-bola
+
 https://test.zapi.us.kg/?id=arena-bola
 #EXTINF:-1,tvg-id="ARENA2" tvg-name="ARENA2" tvg-logo="https://epg.v1.mk/logo/ARENA2.png" group-title="其他",Arena Bola2
-http://23.26.239.95:3599/xsj.php/?id=arena-bola2
+
 https://test.zapi.us.kg/?id=arena-bola2
 #EXTINF:-1,tvg-id="[ASTRO]712WARNERTV" tvg-name="[ASTRO]712WARNERTV" tvg-logo="https://epg.v1.mk/logo/[ASTRO]712WARNERTV.png" group-title="港澳台",Astro 爱奇艺
-http://23.26.239.95:3599/xsj.php/?id=astro-iqiyi
+
 https://test.zapi.us.kg/?id=astro-iqiyi
 #EXTINF:-1,tvg-id="ASTROAOD311" tvg-name="ASTROAOD311" tvg-logo="https://epg.v1.mk/logo/ASTROAOD311.png" group-title="港澳台",Astro AOD 311 国语
-http://23.26.239.95:3599/xsj.php/?id=astro-aod
+
 https://test.zapi.us.kg/?id=astro-aod
 #EXTINF:-1,tvg-id="ASTROAOD311" tvg-name="ASTROAOD311" tvg-logo="https://epg.v1.mk/logo/ASTROAOD311.png" group-title="港澳台",Astro AOD 311 粤语
-http://23.26.239.95:3599/xsj.php/?id=astro-aod-311-hk
+
 https://test.zapi.us.kg/?id=astro-aod-311-hk
 #EXTINF:-1,tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="港澳台",Astro QJ
-http://23.26.239.95:3599/xsj.php/?id=astro-quanjia
+
 https://test.zapi.us.kg/?id=astro-quanjia
 #EXTINF:-1,tvg-id="ASTROAWANI" tvg-name="ASTROAWANI" tvg-logo="https://epg.v1.mk/logo/ASTROAWANI.png" group-title="港澳台",Astro Awani
-http://23.26.239.95:3599/xsj.php/?id=astro-awani
+
 https://test.zapi.us.kg/?id=astro-awani
 #EXTINF:-1,tvg-id="ASTROARENA" tvg-name="ASTROARENA" tvg-logo="https://epg.v1.mk/logo/ASTROARENA.png" group-title="港澳台",Astro Arena HD
-http://23.26.239.95:3599/xsj.php/?id=astro-arena-hd
+
 https://test.zapi.us.kg/?id=astro-arena-hd
 #EXTINF:-1,tvg-id="ASTROARENA2" tvg-name="ASTROARENA2" tvg-logo="https://epg.v1.mk/logo/ASTROARENA2.png" group-title="港澳台",Astro Arena 2
-http://23.26.239.95:3599/xsj.php/?id=astro-arena2
+
 https://test.zapi.us.kg/?id=astro-arena2
 #EXTINF:-1,tvg-id="ASTROCITRA" tvg-name="ASTROCITRA" tvg-logo="https://epg.v1.mk/logo/ASTROCITRA.png" group-title="港澳台",Astro Citra
-http://23.26.239.95:3599/xsj.php/?id=astro-citra
+
 https://test.zapi.us.kg/?id=astro-citra
 #EXTINF:-1,tvg-id="ASTROPRIMA" tvg-name="ASTROPRIMA" tvg-logo="https://epg.v1.mk/logo/ASTROPRIMA.png" group-title="港澳台",Astro Prima
-http://23.26.239.95:3599/xsj.php/?id=astro-prima
+
 https://test.zapi.us.kg/?id=astro-prima
 #EXTINF:-1,tvg-id="ASTROAURA" tvg-name="ASTROAURA" tvg-logo="https://epg.v1.mk/logo/ASTROAURA.png" group-title="港澳台",Astro Aura
-http://23.26.239.95:3599/xsj.php/?id=astro-aura
+
 https://test.zapi.us.kg/?id=astro-aura
 #EXTINF:-1,tvg-id="ASTRORIA" tvg-name="ASTRORIA" tvg-logo="https://epg.v1.mk/logo/ASTRORIA.png" group-title="港澳台",Astro RIA
-http://23.26.239.95:3599/xsj.php/?id=astro-ria
+
 https://test.zapi.us.kg/?id=astro-ria
 #EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="港澳台",Astro ONE
-http://23.26.239.95:3599/xsj.php/?id=astro-one
+
 https://test.zapi.us.kg/?id=astro-one
 #EXTINF:-1,tvg-id="ASTROPRIMA" tvg-name="ASTROPRIMA" tvg-logo="https://epg.v1.mk/logo/ASTROPRIMA.png" group-title="港澳台",AstroPremier
-http://23.26.239.95:3599/xsj.php/?id=astropremier
+
 https://test.zapi.us.kg/?id=astropremier
 #EXTINF:-1,tvg-id="ASTROCERIA" tvg-name="ASTROCERIA" tvg-logo="https://epg.v1.mk/logo/ASTROCERIA.png" group-title="港澳台",Astro Ceria
-http://23.26.239.95:3599/xsj.php/?id=astro-ceria
+
 https://test.zapi.us.kg/?id=astro-ceria
 #EXTINF:-1,tvg-id="ASTROVAANAVIL" tvg-name="ASTROVAANAVIL" tvg-logo="https://epg.v1.mk/logo/ASTROVAANAVIL.png" group-title="港澳台",Astro Vaanavil
-http://23.26.239.95:3599/xsj.php/?id=astro-vaanavil
+
 https://test.zapi.us.kg/?id=astro-vaanavil
 #EXTINF:-1,tvg-id="ASTROVINMEEN" tvg-name="ASTROVINMEEN" tvg-logo="https://epg.v1.mk/logo/ASTROVINMEEN.png" group-title="港澳台",Astro Vinmeen
-http://23.26.239.95:3599/xsj.php/?id=astro-vinmeen
+
 https://test.zapi.us.kg/?id=astro-vinmeen
 #EXTINF:-1,tvg-id="ASTROWARNA" tvg-name="ASTROWARNA" tvg-logo="https://epg.v1.mk/logo/ASTROWARNA.png" group-title="港澳台",Astro Warna
-http://23.26.239.95:3599/xsj.php/?id=astro-warna
+
 https://test.zapi.us.kg/?id=astro-warna
 #EXTINF:-1,tvg-id="ASTROVELLITHIRAI" tvg-name="ASTROVELLITHIRAI" tvg-logo="https://epg.v1.mk/logo/ASTROVELLITHIRAI.png" group-title="港澳台",Astro Vellithirai
-http://23.26.239.95:3599/xsj.php/?id=astro-vellithirai
+
 https://test.zapi.us.kg/?id=astro-vellithirai
 #EXTINF:-1,tvg-id="ASTRORANIA" tvg-name="ASTRORANIA" tvg-logo="https://epg.v1.mk/logo/ASTRORANIA.png" group-title="港澳台",Astro Rania
-http://23.26.239.95:3599/xsj.php/?id=astro-rania
+
 https://test.zapi.us.kg/?id=astro-rania
 #EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="港澳台",Astro Oasis
-http://23.26.239.95:3599/xsj.php/?id=astro-oasis
+
 https://test.zapi.us.kg/?id=astro-oasis
 #EXTINF:-1,tvg-id="ASTROTUTORTVPT3" tvg-name="ASTROTUTORTVPT3" tvg-logo="https://epg.v1.mk/logo/ASTROTUTORTVPT3.png" group-title="港澳台",Astro TUTOR TV
-http://23.26.239.95:3599/xsj.php/?id=astro-tutor-tv
+
 https://test.zapi.us.kg/?id=astro-tutor-tv
 #EXTINF:-1,tvg-id="[ASTRO]712WARNERTV" tvg-name="[ASTRO]712WARNERTV" tvg-logo="https://epg.v1.mk/logo/[ASTRO]712WARNERTV.png" group-title="港澳台",Astro GolfChannel
-http://23.26.239.95:3599/xsj.php/?id=astro-golfchannel
+
 https://test.zapi.us.kg/?id=astro-golfchannel
 #EXTINF:-1,tvg-id="beINsports" tvg-name="beINsports" tvg-logo="https://epg.v1.mk/logo/beINsports.png" group-title="其他",beIN Sports
-http://23.26.239.95:3599/xsj.php/?id=beinsports
+
 https://test.zapi.us.kg/?id=beinsports
 #EXTINF:-1,tvg-id="BEINSPORTS2" tvg-name="BEINSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEINSPORTS2.png" group-title="其他",beIN Sports 2
-http://23.26.239.95:3599/xsj.php/?id=beinsports2
+
 https://test.zapi.us.kg/?id=beinsports2
 #EXTINF:-1,tvg-id="BEINSPORTS1" tvg-name="BEINSPORTS1" tvg-logo="https://epg.v1.mk/logo/BEINSPORTS1.png" group-title="其他",beIN Sports 3
-http://23.26.239.95:3599/xsj.php/?id=beinsports3
+
 https://test.zapi.us.kg/?id=beinsports3
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 体育-1
-http://23.26.239.95:3599/xsj.php/?id=elta-sport1
+
 https://test.zapi.us.kg/?id=elta-sport1
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 体育-2
-http://23.26.239.95:3599/xsj.php/?id=elta-sport2
+
 https://test.zapi.us.kg/?id=elta-sport2
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 体育-3
-http://23.26.239.95:3599/xsj.php/?id=elta-sport3
+
 https://test.zapi.us.kg/?id=elta-sport3
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA体育4台
-http://23.26.239.95:3599/xsj.php/?id=elta-sport4
+
 https://test.zapi.us.kg/?id=elta-sport4
 #EXTINF:-1,tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="https://epg.v1.mk/logo/博斯网球.png" group-title="港澳台",博斯网球
-http://23.26.239.95:3599/xsj.php/?id=sportcast-tennis
+
 https://test.zapi.us.kg/?id=sportcast-tennis
 #EXTINF:-1,tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://epg.v1.mk/logo/博斯运动1.png" group-title="港澳台",博斯运动-1
-http://23.26.239.95:3599/xsj.php/?id=sportcast1
+
 https://test.zapi.us.kg/?id=sportcast1
 #EXTINF:-1,tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://epg.v1.mk/logo/博斯运动2.png" group-title="港澳台",博斯运动-2
-http://23.26.239.95:3599/xsj.php/?id=sportcast2
+
 https://test.zapi.us.kg/?id=sportcast2
 #EXTINF:-1,tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://epg.v1.mk/logo/博斯无限.png" group-title="港澳台",博斯无限
-http://23.26.239.95:3599/xsj.php/?id=sportcast-wx
+
 https://test.zapi.us.kg/?id=sportcast-wx
 #EXTINF:-1,tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://epg.v1.mk/logo/博斯高球.png" group-title="港澳台",博斯高球-1
-http://23.26.239.95:3599/xsj.php/?id=sportcast-golf1
+
 https://test.zapi.us.kg/?id=sportcast-golf1
 #EXTINF:-1,tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://epg.v1.mk/logo/博斯高球.png" group-title="港澳台",博斯高球-2
-http://23.26.239.95:3599/xsj.php/?id=sportcast-golf2
+
 https://test.zapi.us.kg/?id=sportcast-golf2
 #EXTINF:-1,tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://epg.v1.mk/logo/博斯魅力.png" group-title="港澳台",博斯魅力
-http://23.26.239.95:3599/xsj.php/?id=sportcast-meili
+
 https://test.zapi.us.kg/?id=sportcast-meili
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://epg.v1.mk/logo/ESPN.png" group-title="其他",ESPN
-http://23.26.239.95:3599/xsj.php/?id=espn
+
 https://test.zapi.us.kg/?id=espn
 #EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://epg.v1.mk/logo/ESPNNEWS.png" group-title="其他",ESPN 2
-http://23.26.239.95:3599/xsj.php/?id=espn2
+
 https://test.zapi.us.kg/?id=espn2
 #EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://epg.v1.mk/logo/ESPNNEWS.png" group-title="其他",ESPN 3
-http://23.26.239.95:3599/xsj.php/?id=espn3
+
 https://test.zapi.us.kg/?id=espn3
 #EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://epg.v1.mk/logo/ESPNNEWS.png" group-title="其他",ESPN 4
-http://23.26.239.95:3599/xsj.php/?id=espn4
+
 https://test.zapi.us.kg/?id=espn4
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER直播足球1台
-http://23.26.239.95:3599/xsj.php/?id=mytv-super-soccer1
+
 https://test.zapi.us.kg/?id=mytv-super-soccer1
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER直播足球2台
-http://23.26.239.95:3599/xsj.php/?id=mytv-super-soccer2
+
 https://test.zapi.us.kg/?id=mytv-super-soccer2
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER直播足球3台
-http://23.26.239.95:3599/xsj.php/?id=mytv-super-soccer3
+
 https://test.zapi.us.kg/?id=mytv-super-soccer3
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER直播足球4台
-http://23.26.239.95:3599/xsj.php/?id=mytv-super-soccer4
+
 https://test.zapi.us.kg/?id=mytv-super-soccer4
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER 18
-http://23.26.239.95:3599/xsj.php/?id=mytvsuper-18
+
 https://test.zapi.us.kg/?id=mytvsuper-18
 #EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="港澳台",纬来体育
-http://23.26.239.95:3599/xsj.php/?id=videoland-sport
+
 https://test.zapi.us.kg/?id=videoland-sport
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="https://epg.v1.mk/logo/NBA.png" group-title="其他",NBA
-http://23.26.239.95:3599/xsj.php/?id=nba
+
 https://test.zapi.us.kg/?id=nba
 #EXTINF:-1,tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://epg.v1.mk/logo/WWE Network.png" group-title="其他",WWE
-http://23.26.239.95:3599/xsj.php/?id=wwe
+
 https://test.zapi.us.kg/?id=wwe
 #EXTINF:-1,tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://epg.v1.mk/logo/DAZN1.png" group-title="其他",DAZN 1
-http://23.26.239.95:3599/xsj.php/?id=eleven-sport1
+
 https://test.zapi.us.kg/?id=eleven-sport1
 #EXTINF:-1,tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://epg.v1.mk/logo/DAZN2.png" group-title="其他",DAZN 2
-http://23.26.239.95:3599/xsj.php/?id=eleven-sport2
+
 https://test.zapi.us.kg/?id=eleven-sport2
 #EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://epg.v1.mk/logo/EUROSPORT.png" group-title="其他",Eurosports-1
-http://23.26.239.95:3599/xsj.php/?id=eurosports-1
+
 https://test.zapi.us.kg/?id=eurosports-1
 #EXTINF:-1,tvg-id="spotv" tvg-name="spotv" tvg-logo="https://epg.v1.mk/logo/spotv.png" group-title="其他",SPOTV
-http://23.26.239.95:3599/xsj.php/?id=spotv
+
 https://test.zapi.us.kg/?id=spotv
 #EXTINF:-1,tvg-id="spotv2" tvg-name="spotv2" tvg-logo="https://epg.v1.mk/logo/spotv2.png" group-title="其他",SPOTV-2
-http://23.26.239.95:3599/xsj.php/?id=spotv2
+
 https://test.zapi.us.kg/?id=spotv2
 #EXTINF:-1,tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://epg.v1.mk/logo/时尚运动X.png" group-title="其他",时尚运动 X
-http://23.26.239.95:3599/xsj.php/?id=ssydx
+
 https://test.zapi.us.kg/?id=ssydx
 #EXTINF:-1,tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://epg.v1.mk/logo/GINXESPORTSTV.png" group-title="其他",GINX Esports TV
-http://23.26.239.95:3599/xsj.php/?id=ginx-esports
+
 https://test.zapi.us.kg/?id=ginx-esports
 #EXTINF:-1,tvg-id="TechStorm" tvg-name="TechStorm" tvg-logo="https://epg.v1.mk/logo/TechStorm.png" group-title="其他",Tech Storm
-http://23.26.239.95:3599/xsj.php/?id=tech-storm
+
 https://test.zapi.us.kg/?id=tech-storm
 #EXTINF:-1,tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="https://epg.v1.mk/logo/TRACESPORTSTARS.png" group-title="其他",TRACE Sport Stars
-http://23.26.239.95:3599/xsj.php/?id=trace-sport-stars
+
 https://test.zapi.us.kg/?id=trace-sport-stars
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",W-Sport
-http://23.26.239.95:3599/xsj.php/?id=w-sport
+
 https://test.zapi.us.kg/?id=w-sport
 #EXTINF:-1,tvg-id="NOW SPORTS PREMIER LEAGUE TV" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://epg.v1.mk/logo/NOW SPORTS PREMIER LEAGUE TV.png" group-title="其他",PremierSports
-http://23.26.239.95:3599/xsj.php/?id=premiersports
+
 https://test.zapi.us.kg/?id=premiersports
 #EXTINF:-1,tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://epg.v1.mk/logo/智林体育台.png" group-title="其他",智林体育台
-http://23.26.239.95:3599/xsj.php/?id=zl-sports
+
 https://test.zapi.us.kg/?id=zl-sports
 #EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新时代电视
-http://23.26.239.95:3599/xsj.php/?id=fairchildtv
+
 https://test.zapi.us.kg/?id=fairchildtv
 #EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新时代电视二台
-http://23.26.239.95:3599/xsj.php/?id=fairchildtv2
+
 https://test.zapi.us.kg/?id=fairchildtv2
 #EXTINF:-1,tvg-id="乐陵城市生活" tvg-name="乐陵城市生活" tvg-logo="https://epg.v1.mk/logo/乐陵城市生活.png" group-title="其他",城市电视
-http://23.26.239.95:3599/xsj.php/?id=talentvisiontv
+
 https://test.zapi.us.kg/?id=talentvisiontv
 #EXTINF:-1,tvg-id="hbo" tvg-name="hbo" tvg-logo="https://epg.v1.mk/logo/hbo.png" group-title="港澳台",HBO HD
-http://23.26.239.95:3599/xsj.php/?id=hbo-hd
+
 https://test.zapi.us.kg/?id=hbo-hd
 #EXTINF:-1,tvg-id="HBOHits" tvg-name="HBOHits" tvg-logo="https://epg.v1.mk/logo/HBOHits.png" group-title="港澳台",HBO Hits HD
-http://23.26.239.95:3599/xsj.php/?id=hbo-hits-hd
+
 https://test.zapi.us.kg/?id=hbo-hits-hd
 #EXTINF:-1,tvg-id="hbofamily" tvg-name="hbofamily" tvg-logo="https://epg.v1.mk/logo/hbofamily.png" group-title="港澳台",HBO Family HD
-http://23.26.239.95:3599/xsj.php/?id=hbo-family
+
 https://test.zapi.us.kg/?id=hbo-family
 #EXTINF:-1,tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://epg.v1.mk/logo/HBOSIGNATURE.png" group-title="港澳台",HBO Signature HD
-http://23.26.239.95:3599/xsj.php/?id=hbo-signature
+
 https://test.zapi.us.kg/?id=hbo-signature
 #EXTINF:-1,tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://epg.v1.mk/logo/cinemax.png" group-title="其他",Cinemax
-http://23.26.239.95:3599/xsj.php/?id=cinemax
+
 https://test.zapi.us.kg/?id=cinemax
 #EXTINF:-1,tvg-id="CNNINTERNATIONAL" tvg-name="CNNINTERNATIONAL" tvg-logo="https://epg.v1.mk/logo/CNNINTERNATIONAL.png" group-title="其他",CNN International
-http://23.26.239.95:3599/xsj.php/?id=cnn-international
+
 https://test.zapi.us.kg/?id=cnn-international
 #EXTINF:-1,tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://epg.v1.mk/logo/好莱坞电影.png" group-title="其他",好莱坞电影
-http://23.26.239.95:3599/xsj.php/?id=hollywood-movie
+
 https://test.zapi.us.kg/?id=hollywood-movie
 #EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="其他",ROCK Action
-http://23.26.239.95:3599/xsj.php/?id=rock-action
+
 https://test.zapi.us.kg/?id=rock-action
 #EXTINF:-1,tvg-id="CLASSIC ROCK" tvg-name="CLASSIC ROCK" tvg-logo="https://epg.v1.mk/logo/CLASSIC ROCK.png" group-title="其他",ROCK Entertainment
-http://23.26.239.95:3599/xsj.php/?id=rock-entertaiment
+
 https://test.zapi.us.kg/?id=rock-entertaiment
 #EXTINF:-1,tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://epg.v1.mk/logo/BLOOMBERG.png" group-title="其他",Bloomberg
-http://23.26.239.95:3599/xsj.php/?id=bloomberg
+
 https://test.zapi.us.kg/?id=bloomberg
 #EXTINF:-1,tvg-id="amc最爱电影" tvg-name="amc最爱电影" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png" group-title="其他",amc 最爱电影
-http://23.26.239.95:3599/xsj.php/?id=amc-movie
+
 https://test.zapi.us.kg/?id=amc-movie
 #EXTINF:-1,tvg-id="美国中文电视" tvg-name="美国中文电视" tvg-logo="https://epg.v1.mk/logo/美国中文电视.png" group-title="其他",美国中文电视
-http://23.26.239.95:3599/xsj.php/?id=sinovision
+
 https://test.zapi.us.kg/?id=sinovision
 #EXTINF:-1,tvg-id="LIFETIME娱乐" tvg-name="LIFETIME娱乐" tvg-logo="https://epg.v1.mk/logo/LIFETIME娱乐.png" group-title="其他",Lifetime 娱乐频道
-http://23.26.239.95:3599/xsj.php/?id=lifetime
+
 https://test.zapi.us.kg/?id=lifetime
 #EXTINF:-1,tvg-id="HLBR" tvg-name="HLBR" tvg-logo="https://epg.v1.mk/logo/HLBR.png" group-title="其他",HLN
-http://23.26.239.95:3599/xsj.php/?id=cnn-hln
+
 https://test.zapi.us.kg/?id=cnn-hln
 #EXTINF:-1,tvg-id="IFUN" tvg-name="IFUN" tvg-logo="https://epg.v1.mk/logo/IFUN.png" group-title="其他",fun 探索娱乐台
-http://23.26.239.95:3599/xsj.php/?id=festival4k
+
 https://test.zapi.us.kg/?id=festival4k
 #EXTINF:-1,tvg-id="euronews" tvg-name="euronews" tvg-logo="https://epg.v1.mk/logo/euronews.png" group-title="其他",Euronews
-http://23.26.239.95:3599/xsj.php/?id=euronews
+
 https://test.zapi.us.kg/?id=euronews
 #EXTINF:-1,tvg-id="MYCINEMAEUROPEHD我的欧洲电影" tvg-name="MYCINEMAEUROPEHD我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/MYCINEMAEUROPEHD我的欧洲电影.png" group-title="其他",MyCinema Europe HD
-http://23.26.239.95:3599/xsj.php/?id=mycinema-europe
+
 https://test.zapi.us.kg/?id=mycinema-europe
 #EXTINF:-1,tvg-id="VOA美国之音" tvg-name="VOA美国之音" tvg-logo="https://epg.v1.mk/logo/VOA美国之音.png" group-title="其他",VOA 美国之音
-http://23.26.239.95:3599/xsj.php/?id=voa
+
 https://test.zapi.us.kg/?id=voa
 #EXTINF:-1,tvg-id="DW德国之声" tvg-name="DW德国之声" tvg-logo="https://epg.v1.mk/logo/DW德国之声.png" group-title="其他",DW 德国之声
-http://23.26.239.95:3599/xsj.php/?id=dw
+
 https://test.zapi.us.kg/?id=dw
 #EXTINF:-1,tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://epg.v1.mk/logo/ABCNEWS.png" group-title="其他",ABC News
-http://23.26.239.95:3599/xsj.php/?id=abc-news
+
 https://test.zapi.us.kg/?id=abc-news
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.v1.mk/logo/BBCWORLDNEWS.png" group-title="其他",BBC World News
-http://23.26.239.95:3599/xsj.php/?id=bbc-world-news
+
 https://test.zapi.us.kg/?id=bbc-world-news
 #EXTINF:-1,tvg-id="cnbc" tvg-name="cnbc" tvg-logo="https://epg.v1.mk/logo/cnbc.png" group-title="其他",CNBC
-http://23.26.239.95:3599/xsj.php/?id=cnbc
+
 https://test.zapi.us.kg/?id=cnbc
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="其他",第一财经
-http://23.26.239.95:3599/xsj.php/?id=yicai
+
 https://test.zapi.us.kg/?id=yicai
 #EXTINF:-1,tvg-id="曼迪日本" tvg-name="曼迪日本" tvg-logo="https://epg.v1.mk/logo/曼迪日本.png" group-title="其他",迪士尼频道
-http://23.26.239.95:3599/xsj.php/?id=disney
+
 https://test.zapi.us.kg/?id=disney
 #EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://epg.v1.mk/logo/ANIMAXHK.png" group-title="其他",Animax 卡通
-http://23.26.239.95:3599/xsj.php/?id=animax-cartoon
+
 https://test.zapi.us.kg/?id=animax-cartoon
 #EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.v1.mk/logo/DREAMWORKS.png" group-title="其他",DreamWorks 梦工厂动画
-http://23.26.239.95:3599/xsj.php/?id=dreamworks
+
 https://test.zapi.us.kg/?id=dreamworks
 #EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小尼克频道
-http://23.26.239.95:3599/xsj.php/?id=nick-jr
+
 https://test.zapi.us.kg/?id=nick-jr
 #EXTINF:-1,tvg-id="尼克儿童" tvg-name="尼克儿童" tvg-logo="https://epg.v1.mk/logo/尼克儿童.png" group-title="其他",尼克儿童频道
-http://23.26.239.95:3599/xsj.php/?id=nickelodeon
+
 https://test.zapi.us.kg/?id=nickelodeon
 #EXTINF:-1,tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://epg.v1.mk/logo/MOMO亲子台.png" group-title="其他",MOMO 亲子台
-http://23.26.239.95:3599/xsj.php/?id=momo-kids
+
 https://test.zapi.us.kg/?id=momo-kids
 #EXTINF:-1,tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://epg.v1.mk/logo/东森幼幼台.png" group-title="港澳台",东森幼幼台
-http://23.26.239.95:3599/xsj.php/?id=ebc-yoyo
+
 https://test.zapi.us.kg/?id=ebc-yoyo
 #EXTINF:-1,tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://epg.v1.mk/logo/CN卡通.png" group-title="其他",CN卡通
-http://23.26.239.95:3599/xsj.php/?id=cn-cartoon
+
 https://test.zapi.us.kg/?id=cn-cartoon
 #EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.v1.mk/logo/靖天卡通台.png" group-title="其他",靖天卡通台
-http://23.26.239.95:3599/xsj.php/?id=jtkt
+
 https://test.zapi.us.kg/?id=jtkt
 #EXTINF:-1,tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://epg.v1.mk/logo/靖天育乐台.png" group-title="其他",靖天育乐台
-http://23.26.239.95:3599/xsj.php/?id=jtyl
+
 https://test.zapi.us.kg/?id=jtyl
 #EXTINF:-1,tvg-id="iFun动漫台" tvg-name="iFun动漫台" tvg-logo="https://epg.v1.mk/logo/iFun动漫台.png" group-title="其他",i-Fun 动漫台
-http://23.26.239.95:3599/xsj.php/?id=i-fun
+
 https://test.zapi.us.kg/?id=i-fun
 #EXTINF:-1,tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="https://epg.v1.mk/logo/ELTV生活英语台.png" group-title="其他",ELTV生活英語台
-http://23.26.239.95:3599/xsj.php/?id=eltv
+
 https://test.zapi.us.kg/?id=eltv
 #EXTINF:-1,tvg-id="boomerang" tvg-name="boomerang" tvg-logo="https://epg.v1.mk/logo/boomerang.png" group-title="其他",Boomerang HD
-http://23.26.239.95:3599/xsj.php/?id=boomerang-hd
+
 https://test.zapi.us.kg/?id=boomerang-hd
 #EXTINF:-1,tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://epg.v1.mk/logo/靖洋卡通NICEBINGO.png" group-title="其他",靖洋卡通 NiceBingo
-http://23.26.239.95:3599/xsj.php/?id=nice-bingo
+
 https://test.zapi.us.kg/?id=nice-bingo
 #EXTINF:-1,tvg-id="达文西" tvg-name="达文西" tvg-logo="https://epg.v1.mk/logo/达文西.png" group-title="其他",达文西频道
-http://23.26.239.95:3599/xsj.php/?id=da-vinci
+
 https://test.zapi.us.kg/?id=da-vinci
 #EXTINF:-1,tvg-id="探索" tvg-name="探索" tvg-logo="https://epg.v1.mk/logo/探索.png" group-title="其他",探索频道
-http://23.26.239.95:3599/xsj.php/?id=discovery
+
 https://test.zapi.us.kg/?id=discovery
 #EXTINF:-1,tvg-id="探索科学" tvg-name="探索科学" tvg-logo="https://epg.v1.mk/logo/探索科学.png" group-title="其他",探索科学频道
-http://23.26.239.95:3599/xsj.php/?id=discovery-sci
+
 https://test.zapi.us.kg/?id=discovery-sci
 #EXTINF:-1,tvg-id="探索亚洲" tvg-name="探索亚洲" tvg-logo="https://epg.v1.mk/logo/探索亚洲.png" group-title="其他",探索亚洲频道
-http://23.26.239.95:3599/xsj.php/?id=discovery-asia
+
 https://test.zapi.us.kg/?id=discovery-asia
 #EXTINF:-1,tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://epg.v1.mk/logo/DMAX.png" group-title="其他",DMAX
-http://23.26.239.95:3599/xsj.php/?id=dmax
+
 https://test.zapi.us.kg/?id=dmax
 #EXTINF:-1,tvg-id="history" tvg-name="history" tvg-logo="https://epg.v1.mk/logo/history.png" group-title="其他",History 频道
-http://23.26.239.95:3599/xsj.php/?id=history
+
 https://test.zapi.us.kg/?id=history
 #EXTINF:-1,tvg-id="history2" tvg-name="history2" tvg-logo="https://epg.v1.mk/logo/history2.png" group-title="其他",History-2 频道
-http://23.26.239.95:3599/xsj.php/?id=history-2
+
 https://test.zapi.us.kg/?id=history-2
 #EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="其他",Love Nature
-http://23.26.239.95:3599/xsj.php/?id=love-nature
+
 https://test.zapi.us.kg/?id=love-nature
 #EXTINF:-1,tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://epg.v1.mk/logo/国家地理野生.png" group-title="其他",国家地理 野生频道
-http://23.26.239.95:3599/xsj.php?/id=natgeo-wild
+
 https://test.zapi.us.kg/?id=natgeo-wild
 #EXTINF:-1,tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://epg.v1.mk/logo/民视旅游.png" group-title="港澳台",民视旅游
-http://23.26.239.95:3599/xsj.php/?id=ftv-travel
+
 https://test.zapi.us.kg/?id=ftv-travel
 #EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.v1.mk/logo/美食星球.png" group-title="其他",美食星球频道
-http://23.26.239.95:3599/xsj.php/?id=food-planet
+
 https://test.zapi.us.kg/?id=food-planet
 #EXTINF:-1,tvg-id="EYETV" tvg-name="EYETV" tvg-logo="https://epg.v1.mk/logo/EYETV.png" group-title="其他",EYE 旅游台
-http://23.26.239.95:3599/xsj.php/?id=eye-travel
+
 https://test.zapi.us.kg/?id=eye-travel
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 生活旅游台
-http://23.26.239.95:3599/xsj.php/?id=elta-lifetravel
+
 https://test.zapi.us.kg/?id=elta-lifetravel
 #EXTINF:-1,tvg-id="车迷TV" tvg-name="车迷TV" tvg-logo="https://epg.v1.mk/logo/车迷TV.png" group-title="其他",车迷TV
-http://23.26.239.95:3599/xsj.php/?id=motorvision
+
 https://test.zapi.us.kg/?id=motorvision
 #EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.v1.mk/logo/动物星球.png" group-title="其他",动物星球频道
-http://23.26.239.95:3599/xsj.php/?id=animal-planet
+
 https://test.zapi.us.kg/?id=animal-planet
 #EXTINF:-1,tvg-id="TLC旅游生活频道" tvg-name="TLC旅游生活频道" tvg-logo="https://epg.v1.mk/logo/TLC旅游生活频道.png" group-title="其他",TLC 旅游生活頻道
-http://23.26.239.95:3599/xsj.php/?id=tlc
+
 https://test.zapi.us.kg/?id=tlc
 #EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.v1.mk/logo/亚洲旅游台.png" group-title="其他",亚洲旅游台
-http://23.26.239.95:3599/xsj.php/?id=asia-travel
+
 https://test.zapi.us.kg/?id=asia-travel
 #EXTINF:-1,tvg-id="ASIANFOODNETWORK" tvg-name="ASIANFOODNETWORK" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK.png" group-title="其他",Asian Food Network
-http://23.26.239.95:3599/xsj.php/?id=asian-food-network
+
 https://test.zapi.us.kg/?id=asian-food-network
 #EXTINF:-1,tvg-id="CI罪案侦查" tvg-name="CI罪案侦查" tvg-logo="https://epg.v1.mk/logo/CI罪案侦查.png" group-title="其他",CI 罪案侦查频道
-http://23.26.239.95:3599/xsj.php/?id=ci
+
 https://test.zapi.us.kg/?id=ci
 #EXTINF:-1,tvg-id="滚动力ROLLOR" tvg-name="滚动力ROLLOR" tvg-logo="https://epg.v1.mk/logo/滚动力ROLLOR.png" group-title="其他",滚动力 rollor
-http://23.26.239.95:3599/xsj.php/?id=rollor
+
 https://test.zapi.us.kg/?id=rollor
 #EXTINF:-1,tvg-id="LUXETVCHANNEL" tvg-name="LUXETVCHANNEL" tvg-logo="https://epg.v1.mk/logo/LUXETVCHANNEL.png" group-title="其他",LUXE TV Channel
-http://23.26.239.95:3599/xsj.php/?id=luxe-tv
+
 https://test.zapi.us.kg/?id=luxe-tv
 #EXTINF:-1,tvg-id="AXNHK" tvg-name="AXNHK" tvg-logo="https://epg.v1.mk/logo/AXNHK.png" group-title="港澳台",NHK General
-http://23.26.239.95:3599/xsj.php/?id=nhk-g
+
 https://test.zapi.us.kg/?id=nhk-g
 #EXTINF:-1,tvg-id="AXNHK" tvg-name="AXNHK" tvg-logo="https://epg.v1.mk/logo/AXNHK.png" group-title="港澳台",NHK Education
-http://23.26.239.95:3599/xsj.php/?id=nhk-e
+
 https://test.zapi.us.kg/?id=nhk-e
 #EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本电视台
-http://23.26.239.95:3599/xsj.php/?id=nippon-tv
+
 https://test.zapi.us.kg/?id=nippon-tv
 #EXTINF:-1,tvg-id="TBSkorean" tvg-name="TBSkorean" tvg-logo="https://epg.v1.mk/logo/TBSkorean.png" group-title="其他",TBS TV
-http://23.26.239.95:3599/xsj.php/?id=tbs-tv
+
 https://test.zapi.us.kg/?id=tbs-tv
 #EXTINF:-1,tvg-id="newtv农业致富" tvg-name="newtv农业致富" tvg-logo="https://epg.v1.mk/logo/newtv农业致富.png" group-title="其他",富士电视台
-http://23.26.239.95:3599/xsj.php/?id=fujitv
+
 https://test.zapi.us.kg/?id=fujitv
 #EXTINF:-1,tvg-id="朝阳融媒" tvg-name="朝阳融媒" tvg-logo="https://epg.v1.mk/logo/朝阳融媒.png" group-title="其他",朝日电视台
-http://23.26.239.95:3599/xsj.php/?id=tv-asahi
+
 https://test.zapi.us.kg/?id=tv-asahi
 #EXTINF:-1,tvg-id="CIBN东方购物" tvg-name="CIBN东方购物" tvg-logo="https://epg.v1.mk/logo/CIBN东方购物.png" group-title="其他",东京电视台
-http://23.26.239.95:3599/xsj.php/?id=tv-tokyo
+
 https://test.zapi.us.kg/?id=tv-tokyo
 #EXTINF:-1,tvg-id="AHJJSH" tvg-name="AHJJSH" tvg-logo="https://epg.v1.mk/logo/AHJJSH.png" group-title="其他",JSPORTS 1
-http://23.26.239.95:3599/xsj.php/?id=jsports1
+
 https://test.zapi.us.kg/?id=jsports1
 #EXTINF:-1,tvg-id="AHJJSH" tvg-name="AHJJSH" tvg-logo="https://epg.v1.mk/logo/AHJJSH.png" group-title="其他",JSPORTS 2
-http://23.26.239.95:3599/xsj.php/?id=jsports2
+
 https://test.zapi.us.kg/?id=jsports2
 #EXTINF:-1,tvg-id="AHJJSH" tvg-name="AHJJSH" tvg-logo="https://epg.v1.mk/logo/AHJJSH.png" group-title="其他",JSPORTS 3
-http://23.26.239.95:3599/xsj.php/?id=jsports3
+
 https://test.zapi.us.kg/?id=jsports3
 #EXTINF:-1,tvg-id="AHJJSH" tvg-name="AHJJSH" tvg-logo="https://epg.v1.mk/logo/AHJJSH.png" group-title="其他",JSPORTS 4
-http://23.26.239.95:3599/xsj.php/?id=jsports4
+
 https://test.zapi.us.kg/?id=jsports4
 #EXTINF:-1,tvg-id="kbs1" tvg-name="kbs1" tvg-logo="https://epg.v1.mk/logo/kbs1.png" group-title="其他",KBS 1
-http://23.26.239.95:3599/xsj.php/?id=kbs-1
+
 https://test.zapi.us.kg/?id=kbs-1
 #EXTINF:-1,tvg-id="kbs2" tvg-name="kbs2" tvg-logo="https://epg.v1.mk/logo/kbs2.png" group-title="其他",KBS 2
-http://23.26.239.95:3599/xsj.php/?id=kbs-2
+
 https://test.zapi.us.kg/?id=kbs-2
 #EXTINF:-1,tvg-id="KBSDrama" tvg-name="KBSDrama" tvg-logo="https://epg.v1.mk/logo/KBSDrama.png" group-title="其他",KBS Drama
-http://23.26.239.95:3599/xsj.php/?id=kbs-drama
+
 https://test.zapi.us.kg/?id=kbs-drama
 #EXTINF:-1,tvg-id="kbsstory" tvg-name="kbsstory" tvg-logo="https://epg.v1.mk/logo/kbsstory.png" group-title="其他",KBS Story
-http://23.26.239.95:3599/xsj.php/?id=kbs-story
+
 https://test.zapi.us.kg/?id=kbs-story
 #EXTINF:-1,tvg-id="CH_T_KBS1" tvg-name="CH_T_KBS1" tvg-logo="https://epg.v1.mk/logo/CH_T_KBS1.png" group-title="其他",KBS Life
-http://23.26.239.95:3599/xsj.php/?id=kbs-life
+
 https://test.zapi.us.kg/?id=kbs-life
 #EXTINF:-1,tvg-id="kbsjoy" tvg-name="kbsjoy" tvg-logo="https://epg.v1.mk/logo/kbsjoy.png" group-title="其他",KBS Joy
-http://23.26.239.95:3599/xsj.php/?id=kbs-joy
+
 https://test.zapi.us.kg/?id=kbs-joy
 #EXTINF:-1,tvg-id="KBSKids" tvg-name="KBSKids" tvg-logo="https://epg.v1.mk/logo/KBSKids.png" group-title="其他",KBS Kids
-http://23.26.239.95:3599/xsj.php/?id=kbs-kids
+
 https://test.zapi.us.kg/?id=kbs-kids
 #EXTINF:-1,tvg-id="KBSWorld" tvg-name="KBSWorld" tvg-logo="https://epg.v1.mk/logo/KBSWorld.png" group-title="其他",KBSWorld
-http://23.26.239.95:3599/xsj.php/?id=kbsworld
+
 https://test.zapi.us.kg/?id=kbsworld
 #EXTINF:-1,tvg-id="KBSNEWS" tvg-name="KBSNEWS" tvg-logo="https://epg.v1.mk/logo/KBSNEWS.png" group-title="其他",KBS NEWS
-http://23.26.239.95:3599/xsj.php/?id=kbs-news
+
 https://test.zapi.us.kg/?id=kbs-news
 #EXTINF:-1,tvg-id="sbs" tvg-name="sbs" tvg-logo="https://epg.v1.mk/logo/sbs.png" group-title="其他",SBS
-http://23.26.239.95:3599/xsj.php/?id=sbs
+
 https://test.zapi.us.kg/?id=sbs
 #EXTINF:-1,tvg-id="sbsplus" tvg-name="sbsplus" tvg-logo="https://epg.v1.mk/logo/sbsplus.png" group-title="其他",SBS Plus
-http://23.26.239.95:3599/xsj.php/?id=sbs-plus
+
 https://test.zapi.us.kg/?id=sbs-plus
 #EXTINF:-1,tvg-id="sbsfune" tvg-name="sbsfune" tvg-logo="https://epg.v1.mk/logo/sbsfune.png" group-title="其他",SBS funE
-http://23.26.239.95:3599/xsj.php/?id=sbs-fune
+
 https://test.zapi.us.kg/?id=sbs-fune
 #EXTINF:-1,tvg-id="sbsmtv" tvg-name="sbsmtv" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="其他",SBS M
-http://23.26.239.95:3599/xsj.php/?id=sbs-m
+
 https://test.zapi.us.kg/?id=sbs-m
+
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="韩国」BBS" tvg-logo="https://live.fanmingming.com/tv/韩国」BBS.png",韩国」BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS1.png",「韩国」EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBS2" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS2.png",「韩国」EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBSe" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBSe.png",「韩国」EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS1.png",「韩国」EBS1
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBS2" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS2.png",「韩国」EBS2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS1.png",「韩国」EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBS1" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS1.png",「韩国」EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBSi" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBSi.png",「韩国」EBSi
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBS+2" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS+2.png",「韩国」EBS+2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="「韩国」EBSe" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBSe.png",「韩国」EBSe
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="「韩国」KBC | SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBC | SBS.png",「韩国」KBC | SBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」JTBC" tvg-logo="https://live.fanmingming.com/tv/「韩国」JTBC.png",「韩国」JTBC
+https://everylive.space/live/jtbc/livestream.m3u8
+#EXTINF:-1 tvg-name="「韩国」KCTV" tvg-logo="https://live.fanmingming.com/tv/「韩国」KCTV.png",「韩国」KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 tvg-name="「韩国」CJB | SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」CJB | SBS.png",「韩国」CJB | SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」KBS11" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS11.png",「韩国」KBS11
+http://142.4.119.231:9080/hls/123456mr.m3u8
+#EXTINF:-1 tvg-name="「韩国」MBC" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBC.png",「韩国」MBC
+http://142.4.119.231:9080/hls/254666359mr.m3u8
+#EXTINF:-1 tvg-name="「韩国」MBC UHD" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBC UHD.png",「韩国」MBC UHD
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」MBC体育" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBC体育.png",「韩国」MBC体育
+http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+#EXTINF:-1 tvg-name="「韩国」SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」SBS.png",「韩国」SBS
+http://142.4.119.231:9080/hls/36545983mr.m3u8
+#EXTINF:-1 tvg-name="「韩国」KBS11" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS11.png",「韩国」KBS11
+http://142.4.119.231:9080/hls/wkbs1.m3u8
+#EXTINF:-1 tvg-name="「韩国」NBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」NBS.png",「韩国」NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」TjB | SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」TjB | SBS.png",「韩国」TjB | SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-name="「韩国」KBS LIVE" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS LIVE.png",「韩国」KBS LIVE
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」KBS NEWS" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS NEWS.png",「韩国」KBS NEWS
+http://biaozhun114.com/tv/korea.php?id=31
+#EXTINF:-1 tvg-name="「韩国」KBS DRAMA" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS DRAMA.png",「韩国」KBS DRAMA
+http://biaozhun114.com/tv/korea.php?id=32
+#EXTINF:-1 tvg-name="「韩国」KBS JOY" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS JOY.png",「韩国」KBS JOY
+http://biaozhun114.com/tv/korea.php?id=33
+#EXTINF:-1 tvg-name="「韩国」KBS STORY" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS STORY.png",「韩国」KBS STORY
+http://biaozhun114.com/tv/korea.php?id=34
+#EXTINF:-1 tvg-name="「韩国」KBS LIVE" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS LIVE.png",「韩国」KBS LIVE
+http://biaozhun114.com/tv/korea.php?id=35
+#EXTINF:-1 tvg-name="「韩国」KBS KIDS" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS KIDS.png",「韩国」KBS KIDS
+http://biaozhun114.com/tv/korea.php?id=36
+#EXTINF:-1 tvg-name="「韩国」KBS WORLD" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS WORLD.png",「韩国」KBS WORLD
+http://biaozhun114.com/tv/korea.php?id=37
+#EXTINF:-1 tvg-name="「韩国」CTS" tvg-logo="https://live.fanmingming.com/tv/「韩国」CTS.png",「韩国」CTS
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 tvg-name="「韩国」Arirang" tvg-logo="https://live.fanmingming.com/tv/「韩国」Arirang.png",「韩国」Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」Job plus TV" tvg-logo="https://live.fanmingming.com/tv/「韩国」Job plus TV.png",「韩国」Job plus TV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」DUBAI ONE" tvg-logo="https://live.fanmingming.com/tv/「韩国」DUBAI ONE.png",「韩国」DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="「韩国」tvN1" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN1.png",「韩国」tvN1
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+#EXTINF:-1 tvg-name="「韩国」tvN2" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN2.png",「韩国」tvN2
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+#EXTINF:-1 tvg-name="「韩国」tvN3" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN3.png",「韩国」tvN3
+https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+#EXTINF:-1 tvg-name="「韩国」tvN4" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN4.png",「韩国」tvN4
+http://210.210.155.35/dr9445/h/h20/index.m3u8#http://210.210.155.35:80/dr9445/h/h20/02.m3u8
+#EXTINF:-1 tvg-name="「韩国」tvN5" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN5.png",「韩国」tvN5
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?「韩国」tvN Movies
+#EXTINF:-1 tvg-name="「韩国」tvN Global" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN Global.png",「韩国」tvN Global
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 tvg-name="「韩国」tvN asia" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN asia.png",「韩国」tvN asia
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」tvNBN" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvNBN.png",「韩国」tvNBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-name="「韩国」KBS JOY" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS JOY.png",「韩国」KBS JOY
+http://112.157.229.162:9981/stream/channelid/693039828?profile=pass
+#EXTINF:-1 tvg-name="「韩国」tvN1线" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN1线.png",「韩国」tvN1线
+https://everylive.space/live/tvn/livestream.m3u8
+#EXTINF:-1 tvg-name="「韩国」tvN2线" tvg-logo="https://live.fanmingming.com/tv/「韩国」tvN2线.png",「韩国」tvN2线
+http://112.157.229.162:9981/stream/channelid/1326932339?profile=pass
+#EXTINF:-1 tvg-name="「韩国」SBS" tvg-logo="https://live.fanmingming.com/tv/「韩国」SBS.png",「韩国」SBS
+http://112.157.229.162:9981/stream/channelid/1600798351?profile=pass
+#EXTINF:-1 tvg-name="「韩国」KBS2" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS2.png",「韩国」KBS2
+http://112.157.229.162:9981/stream/channelid/1840309320?profile=pass
+#EXTINF:-1 tvg-name="「韩国」KBS1" tvg-logo="https://live.fanmingming.com/tv/「韩国」KBS1.png",「韩国」KBS1
+http://112.157.229.162:9981/stream/channelid/1286861762?profile=pass
+#EXTINF:-1 tvg-name="「韩国」MBC" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBC.png",「韩国」MBC
+http://112.157.229.162:9981/stream/channelid/865795619?profile=pass
+#EXTINF:-1 tvg-name="「韩国」JTBC" tvg-logo="https://live.fanmingming.com/tv/「韩国」JTBC.png",「韩国」JTBC
+http://112.157.229.162:9981/stream/channelid/1423279254?profile=pass
+#EXTINF:-1 tvg-name="「韩国」ENA플레이" tvg-logo="https://live.fanmingming.com/tv/「韩国」ENA플레이.png",「韩国」ENA플레이
+http://112.157.229.162:9981/stream/channelid/1715420222?profile=pass
+#EXTINF:-1 tvg-name="「韩国」JTBCG&S" tvg-logo="https://live.fanmingming.com/tv/「韩国」JTBCG&S.png",「韩国」JTBCG&S
+http://112.157.229.162:9981/stream/channelid/1638753231?profile=pass
+#EXTINF:-1 tvg-name="「韩国」맥스포츠" tvg-logo="https://live.fanmingming.com/tv/「韩国」맥스포츠.png",「韩国」맥스포츠
+http://112.157.229.162:9981/stream/channelid/739570267?profile=pass
+#EXTINF:-1 tvg-name="「韩国」실버아이TV" tvg-logo="https://live.fanmingming.com/tv/「韩国」실버아이TV.png",「韩国」실버아이TV
+http://112.157.229.162:9981/stream/channelid/200005016?profile=pass
+#EXTINF:-1 tvg-name="「韩国」채널A" tvg-logo="https://live.fanmingming.com/tv/「韩国」채널A.png",「韩国」채널A
+http://112.157.229.162:9981/stream/channelid/943646943?profile=pass
+#EXTINF:-1 tvg-name="「韩国」MBN" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBN.png",「韩国」MBN
+http://112.157.229.162:9981/stream/channelid/1903956646?profile=pass
+#EXTINF:-1 tvg-name="「韩国」Dramax" tvg-logo="https://live.fanmingming.com/tv/「韩国」Dramax.png",「韩国」Dramax
+http://112.157.229.162:9981/stream/channelid/204530369?profile=pass
+#EXTINF:-1 tvg-name="「韩国」TV조선" tvg-logo="https://live.fanmingming.com/tv/「韩国」TV조선.png",「韩国」TV조선
+http://112.157.229.162:9981/stream/channelid/1068456989?profile=pass
+#EXTINF:-1 tvg-name="「韩国」티브이조선2" tvg-logo="https://live.fanmingming.com/tv/「韩国」티브이조선2.png",「韩国」티브이조선2
+http://112.157.229.162:9981/stream/channelid/165481420?profile=pass
+#EXTINF:-1 tvg-name="「韩国」채널A플러스" tvg-logo="https://live.fanmingming.com/tv/「韩国」채널A플러스.png",「韩国」채널A플러스
+http://112.157.229.162:9981/stream/channelid/338825350?profile=pass
+#EXTINF:-1 tvg-name="「韩国」MBN플러스" tvg-logo="https://live.fanmingming.com/tv/「韩国」MBN플러스.png",「韩国」MBN플러스
+http://112.157.229.162:9981/stream/channelid/225363886?profile=pass
+#EXTINF:-1 tvg-name="「韩国」GMTV" tvg-logo="https://live.fanmingming.com/tv/「韩国」GMTV.png",「韩国」GMTV
+http://112.157.229.162:9981/stream/channelid/1729285724?profile=pass
+#EXTINF:-1 tvg-name="「韩国」KTV" tvg-logo="https://live.fanmingming.com/tv/「韩国」KTV.png",「韩国」KTV
+http://112.157.229.162:9981/stream/channelid/630198188?profile=pass
+#EXTINF:-1 tvg-name="「韩国」국회방송" tvg-logo="https://live.fanmingming.com/tv/「韩国」국회방송.png",「韩国」국회방송
+http://112.157.229.162:9981/stream/channelid/1951012577?profile=pass
+#EXTINF:-1 tvg-name="「韩国」OUN" tvg-logo="https://live.fanmingming.com/tv/「韩国」OUN.png",「韩国」OUN
+http://112.157.229.162:9981/stream/channelid/1856430432?profile=pass
+#EXTINF:-1 tvg-name="「韩国」지역채널" tvg-logo="https://live.fanmingming.com/tv/「韩国」지역채널.png",「韩国」지역채널
+http://112.157.229.162:9981/stream/channelid/2112048965?profile=pass
+#EXTINF:-1 tvg-name="「韩国」EBS플러스1" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS플러스1.png",「韩国」EBS플러스1
+http://112.157.229.162:9981/stream/channelid/1585817402?profile=pass
+#EXTINF:-1 tvg-name="「韩国」EBS Digital" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS Digital.png",「韩国」EBS Digital
+http://112.157.229.162:9981/stream/channelid/816256588?profile=pass
+#EXTINF:-1 tvg-name="「韩国」EBS Digital" tvg-logo="https://live.fanmingming.com/tv/「韩国」EBS Digital.png",「韩国」EBS Digital
+http://112.157.229.162:9981/stream/channelid/664316059?profile=pass
+#EXTINF:-1 tvg-name="「韩国」GS SHOP" tvg-logo="https://live.fanmingming.com/tv/「韩国」GS SHOP.png",「韩国」GS SHOP
+http://112.157.229.162:9981/stream/channelid/2125410431?profile=pass
+#EXTINF:-1 tvg-name="「韩国」공영쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」공영쇼핑.png",「韩国」공영쇼핑
+http://112.157.229.162:9981/stream/channelid/582438989?profile=pass
+#EXTINF:-1 tvg-name="「韩国」현대홈플러스샵" tvg-logo="https://live.fanmingming.com/tv/「韩国」현대홈플러스샵.png",「韩国」현대홈플러스샵
+http://112.157.229.162:9981/stream/channelid/1444911683?profile=pass
+#EXTINF:-1 tvg-name="「韩国」홈&쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」홈&쇼핑.png",「韩国」홈&쇼핑
+http://112.157.229.162:9981/stream/channelid/192524644?profile=pass
+#EXTINF:-1 tvg-name="「韩国」NS홈쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」NS홈쇼핑.png",「韩国」NS홈쇼핑
+http://112.157.229.162:9981/stream/channelid/825723775?profile=pass
+#EXTINF:-1 tvg-name="「韩国」CJ온스타일" tvg-logo="https://live.fanmingming.com/tv/「韩国」CJ온스타일.png",「韩国」CJ온스타일
+http://112.157.229.162:9981/stream/channelid/1494437493?profile=pass
+#EXTINF:-1 tvg-name="「韩国」현대홈쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」현대홈쇼핑.png",「韩国」현대홈쇼핑
+http://112.157.229.162:9981/stream/channelid/1960878000?profile=pass
+#EXTINF:-1 tvg-name="「韩国」롯데홈쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」롯데홈쇼핑.png",「韩国」롯데홈쇼핑
+http://112.157.229.162:9981/stream/channelid/706210415?profile=pass
+#EXTINF:-1 tvg-name="「韩国」신세계쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」신세계쇼핑.png",「韩国」신세계쇼핑
+http://112.157.229.162:9981/stream/channelid/1492569308?profile=pass
+#EXTINF:-1 tvg-name="「韩国」GS MY S" tvg-logo="https://live.fanmingming.com/tv/「韩国」GS MY S.png",「韩国」GS MY S
+http://112.157.229.162:9981/stream/channelid/627095594?profile=pass
+#EXTINF:-1 tvg-name="「韩国」W쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」W쇼핑.png",「韩国」W쇼핑
+http://112.157.229.162:9981/stream/channelid/2060162956?profile=pass
+#EXTINF:-1 tvg-name="「韩国」롯데OneTV" tvg-logo="https://live.fanmingming.com/tv/「韩国」롯데OneTV.png",「韩国」롯데OneTV
+http://112.157.229.162:9981/stream/channelid/1501795880?profile=pass
+#EXTINF:-1 tvg-name="「韩国」kt알파쇼핑" tvg-logo="https://live.fanmingming.com/tv/「韩国」kt알파쇼핑.png",「韩国」kt알파쇼핑
+http://112.157.229.162:9981/stream/channelid/1776727867?profile=pass
+#EXTINF:-1 tvg-name="「韩国」NS샵플러스" tvg-logo="https://live.fanmingming.com/tv/「韩国」NS샵플러스.png",「韩国」NS샵플러스
+http://112.157.229.162:9981/stream/channelid/1467694691?profile=pass
+#EXTINF:-1 tvg-name="「韩国」CJ온스타일+" tvg-logo="https://live.fanmingming.com/tv/「韩国」CJ온스타일+.png",「韩国」CJ온스타일+
+http://112.157.229.162:9981/stream/channelid/519227742?profile=pass
+
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="cs01 スカイ・A sports＋" tvg-logo="https://live.fanmingming.com/tv/cs01 スカイ・A sports＋.png",cs01 スカイ・A sports＋
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs02 日テレジータス" tvg-logo="https://live.fanmingming.com/tv/cs02 日テレジータス.png",cs02 日テレジータス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs03 ゴルフネットワーク" tvg-logo="https://live.fanmingming.com/tv/cs03 ゴルフネットワーク.png",cs03 ゴルフネットワーク
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs04 時代劇専門チャンネル" tvg-logo="https://live.fanmingming.com/tv/cs04 時代劇専門チャンネル.png",cs04 時代劇専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs05 ホームドラマチャンネル 韓流・時代劇" tvg-logo="https://live.fanmingming.com/tv/cs05 ホームドラマチャンネル 韓流・時代劇.png",cs05 ホームドラマチャンネル 韓流・時代劇
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs06 ミュージック・ジャパンTV" tvg-logo="https://live.fanmingming.com/tv/cs06 ミュージック・ジャパンTV.png",cs06 ミュージック・ジャパンTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs07 キッズステーション テレビアニメ" tvg-logo="https://live.fanmingming.com/tv/cs07 キッズステーション テレビアニメ.png",cs07 キッズステーション テレビアニメ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs08 ディスカバリーチャンネル" tvg-logo="https://live.fanmingming.com/tv/cs08 ディスカバリーチャンネル.png",cs08 ディスカバリーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs09 ヒストリーチャンネル日本・世界の歴史" tvg-logo="https://live.fanmingming.com/tv/cs09 ヒストリーチャンネル日本・世界の歴史.png",cs09 ヒストリーチャンネル日本・世界の歴史
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs10 ナショナル ジオグラフィック" tvg-logo="https://live.fanmingming.com/tv/cs10 ナショナル ジオグラフィック.png",cs10 ナショナル ジオグラフィック
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs11 TBSニュース バード" tvg-logo="https://live.fanmingming.com/tv/cs11 TBSニュース バード.png",cs11 TBSニュース バード
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs12 旅チャンネル トップページ｜旅チャンネル" tvg-logo="https://live.fanmingming.com/tv/cs12 旅チャンネル トップページ｜旅チャンネル.png",cs12 旅チャンネル トップページ｜旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs13 歌謡ポップスチャンネル" tvg-logo="https://live.fanmingming.com/tv/cs13 歌謡ポップスチャンネル.png",cs13 歌謡ポップスチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs14 ムービープラス" tvg-logo="https://live.fanmingming.com/tv/cs14 ムービープラス.png",cs14 ムービープラス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs15 BBCワールドニュース" tvg-logo="https://live.fanmingming.com/tv/cs15 BBCワールドニュース.png",cs15 BBCワールドニュース
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs16 CNNj" tvg-logo="https://live.fanmingming.com/tv/cs16 CNNj.png",cs16 CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs17 GAORA SPORTS" tvg-logo="https://live.fanmingming.com/tv/cs17 GAORA SPORTS.png",cs17 GAORA SPORTS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs18 MTV" tvg-logo="https://live.fanmingming.com/tv/cs18 MTV.png",cs18 MTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs19 女性チャンネル♪LaLa TV" tvg-logo="https://live.fanmingming.com/tv/cs19 女性チャンネル♪LaLa TV.png",cs19 女性チャンネル♪LaLa TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs20 ファミリー劇場" tvg-logo="https://live.fanmingming.com/tv/cs20 ファミリー劇場.png",cs20 ファミリー劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs21 MONDO TV" tvg-logo="https://live.fanmingming.com/tv/cs21 MONDO TV.png",cs21 MONDO TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs22 衛星劇場" tvg-logo="https://live.fanmingming.com/tv/cs22 衛星劇場.png",cs22 衛星劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs23 ディズニージュニア" tvg-logo="https://live.fanmingming.com/tv/cs23 ディズニージュニア.png",cs23 ディズニージュニア
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs24 アニマルプラネット" tvg-logo="https://live.fanmingming.com/tv/cs24 アニマルプラネット.png",cs24 アニマルプラネット
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs25 カートゥーン ネットワーク" tvg-logo="https://live.fanmingming.com/tv/cs25 カートゥーン ネットワーク.png",cs25 カートゥーン ネットワーク
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs26 フジテレビNEXT" tvg-logo="https://live.fanmingming.com/tv/cs26 フジテレビNEXT.png",cs26 フジテレビNEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs27 東映チャンネル" tvg-logo="https://live.fanmingming.com/tv/cs27 東映チャンネル.png",cs27 東映チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs28 TAKARAZUKA SKY STAGE" tvg-logo="https://live.fanmingming.com/tv/cs28 TAKARAZUKA SKY STAGE.png",cs28 TAKARAZUKA SKY STAGE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="cs29 チャンネル銀河 歴史ドラマ・サスペンス" tvg-logo="https://live.fanmingming.com/tv/cs29 チャンネル銀河 歴史ドラマ・サスペンス.png",cs29 チャンネル銀河 歴史ドラマ・サスペンス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gd01 NHK G" tvg-logo="https://live.fanmingming.com/tv/gd01 NHK G.png",gd01 NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gd02 NHK E" tvg-logo="https://live.fanmingming.com/tv/gd02 NHK E.png",gd02 NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gd03 nippon tv" tvg-logo="https://live.fanmingming.com/tv/gd03 nippon tv.png",gd03 nippon tv
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gd04" tvg-logo="https://live.fanmingming.com/tv/gd04.png",gd04
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gd05" tvg-logo="https://live.fanmingming.com/tv/gd05.png",gd05
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gd06 tv asahi" tvg-logo="https://live.fanmingming.com/tv/gd06 tv asahi.png",gd06 tv asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gd07" tvg-logo="https://live.fanmingming.com/tv/gd07.png",gd07
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gd08 TOKYO MX1" tvg-logo="https://live.fanmingming.com/tv/gd08 TOKYO MX1.png",gd08 TOKYO MX1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gx01" tvg-logo="https://live.fanmingming.com/tv/gx01.png",gx01
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gx02 朝日放送テレビ 6チャンネル" tvg-logo="https://live.fanmingming.com/tv/gx02 朝日放送テレビ 6チャンネル.png",gx02 朝日放送テレビ 6チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gx03" tvg-logo="https://live.fanmingming.com/tv/gx03.png",gx03
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gx04 ytv 読売テレビ" tvg-logo="https://live.fanmingming.com/tv/gx04 ytv 読売テレビ.png",gx04 ytv 読売テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gx05" tvg-logo="https://live.fanmingming.com/tv/gx05.png",gx05
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gx06 NHK G" tvg-logo="https://live.fanmingming.com/tv/gx06 NHK G.png",gx06 NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="gx07 SUN TV サンテレビ" tvg-logo="https://live.fanmingming.com/tv/gx07 SUN TV サンテレビ.png",gx07 SUN TV サンテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-name="bs01 NHK BSP" tvg-logo="https://live.fanmingming.com/tv/bs01 NHK BSP.png",bs01 NHK BSP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3
