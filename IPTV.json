@@ -18,6 +18,12 @@
             "url": "https://tv.iill.top/m3u/Gather",
             "epg": ""
         },
+        {
+            "name": "💦港台💦",
+            "type": 0,
+            "url": "http://itv.22m.top/ITVBox/tv/tvonline.txt",
+            "epg": ""
+        },
       {
             "name": "香港",
             "type": 0,
