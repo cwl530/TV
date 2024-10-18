@@ -37,9 +37,9 @@
             "epg": ""
         },
          {
-            "name": "豪洋",
+            "name": "GitHub",
             "type": 0,
-            "url": "https://s2.pub/tvbshttp://117.72.68.25:9230/latest.txt",
+            "url": "https://raw.kkgithub.com/cwl530/TV/main/Live.txt",
             "epg": ""
         },
         {
