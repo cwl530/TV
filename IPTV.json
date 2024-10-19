@@ -7,6 +7,18 @@
             "epg": ""
         },
         {
+            "name": "湖南2",
+            "type": 0,
+            "url": "https://jsdelivr.pai233.top/gh/kimwang1978/collect-tv-txt@main/merged_output_simple.m3u",
+            "epg": ""
+        },
+        {
+            "name": "湖南3",
+            "type": 0,
+            "url": "https://codeberg.org/cwl520/tv/raw/branch/main/Lives.txt",
+            "epg": ""
+        },
+        {
             "name": "看电视呗",
             "type": 0,
             "url": "http://8.138.7.223/11.php?all=1",
