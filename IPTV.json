@@ -13,9 +13,9 @@
             "epg": ""
         },
         {
-            "name": "湖南3",
+            "name": "河对门",
             "type": 0,
-            "url": "https://codeberg.org/cwl520/tv/raw/branch/main/Lives.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/cwl530/TV/main/家人ipv6.m3u",
             "epg": ""
         },
         {
