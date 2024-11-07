@@ -1,0 +1,57 @@
+   {
+   "lives": [      
+        {
+            "name": "河对门",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/cwl530/TV/main/家人ipv6.m3u",
+            "epg": ""
+        },
+        {
+            "name": "看电视呗",
+            "type": 0,
+            "url": "http://8.138.7.223/live.txt",
+            "epg": ""
+        },
+        {
+            "name": "码点小干货",
+            "type": 0,
+            "url": "http://120.79.4.185/new/mdlive.txt",
+            "epg": ""
+        },
+         {
+            "name": "🅾️港澳台🅾️",
+            "type": 0,
+            "url": "http://aktv.top/live.m3u",
+            "epg": ""
+        }, 
+        {
+            "name": "港澳台",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "epg": ""
+        },
+        {
+            "name": "💦港台💦",
+            "type": 0,
+            "url": "http://itv.22m.top/ITVBox/tv/tvonline.txt",
+            "epg": ""       
+         {
+            "name": "GitHub",
+            "type": 0,
+            "url": "https://raw.kkgithub.com/cwl530/TV/main/Live.txt",
+            "epg": ""
+        },
+        {
+            "name": "易看",
+            "type": 0,
+            "url": "http://117.72.68.25:9230/latest.txt",
+            "epg": ""
+        },
+        {
+            "name": "综合ip6",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/boxTV.m3u",
+            "epg": ""
+        }
+    ]
+}
