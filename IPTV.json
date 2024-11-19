@@ -18,6 +18,13 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/cwl530/TV/main/家人ipv6.m3u",
             "epg": ""
         },
+      
+        {
+            "name": "念心",
+            "type": 0,
+            "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
+            "epg": ""
+        },
         {
             "name": "看电视呗",
             "type": 0,
