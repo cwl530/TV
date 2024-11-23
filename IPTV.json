@@ -18,7 +18,12 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/cwl530/TV/main/家人ipv6.m3u",
             "epg": ""
         },
-      
+        {
+            "name": "幕雨",
+            "type": 0,
+            "url": "https://4key.cn/FP",
+            "epg": ""
+        },
         {
             "name": "念心",
             "type": 0,
