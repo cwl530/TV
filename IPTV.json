@@ -25,6 +25,12 @@
             "epg": ""
         },
         {
+            "name": "美家TV",
+            "type": 0,
+            "url": "http://www.iptv6.icu:5212/f/mPLia/mytv.txt",
+            "epg": ""
+        },
+        {
             "name": "念心",
             "type": 0,
             "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
@@ -39,7 +45,7 @@
         {
             "name": "码点小干货",
             "type": 0,
-            "url": "http://120.79.4.185/new/mdlive.txt",
+            "url": "http://mdxgh.tpddns.cn:9999/new/live.txt",
             "epg": ""
         },
          {
